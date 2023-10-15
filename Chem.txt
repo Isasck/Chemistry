@@ -1,0 +1,208 @@
+Chapter 9 – Structure and property of substances
+
+1. Define chemical bonds, ionic bonds, covalent bonds, metallic bonds & empirical formula.
+
+2. Describing bonds and forces within a structure. (e.g. Iodine crystal, NH4Cl)
+
+3. Explain the melting point/boiling point of a substance. (Hint: structure, forces, energy)
+
+4. Explain why a substance is soft or hard. (Hint: identify types of forces within the structure)
+
+5. Explain why a substance conducts/does not conduct electricity. (Hint: no mobile ions, delocalized electrons)
+
+6. Explain why substance is soluble/insoluble in water/non-aqueous solvents.
+
+e.g. Why is diamond insoluble in water?
+
+Ans: The covalent bonds between carbon molecules in the lattice are much stronger than the intermolecular forces between water molecules. (The weak attractive forces between carbon atoms and water molecules are not strong enough to overcome the attractive forces between carbon atoms)
+
+e.g. Why is sodium chloride soluble in water?
+
+Ans: The attractive forces between water molecules are similar than that of ions in the lattice. There is enough energy for new attraction forces to form between water molecules and ions.
+
+7. Explain why ionic compounds are brittle. 
+
+Ans: Cations and anions are held together by a strong ionic bond. Relative movement of the ions can bring ions of the same charge close together, which results in repulsion.
+
+8. Explain why the structures of caesium chloride and sodium chloride differ. 
+
+Ans: A caesium ion has a larger size than a sodium ion. More chloride ions surround each caesium ion as a result.
+
+9. What are allotropes?
+
+Ans: Allotropes are two (or more) forms of the same element in which the atoms or
+molecules are arranged in different ways.
+
+10. Draw the structures of NaCl, CsCl, diamond and graphite.
+
+11. Suggest the applications of diamond and graphite.
+
+12. Explain why graphite is soft.
+
+Ans: The layers of carbon atoms are held by weak intermolecular forces, which means the layers readily slide over each other. 
+
+13. What is an electric current? Which direction does it flow in a circuit? (Hint: electrons flow from negative to positive)
+
+14. Describe the structure of metal. (e.g. copper)
+
+Ans: In copper, the atoms are closely packed to form a giant metallic structure. (1) 
+Each copper atom loses its outermost shell electrons to form cation. (1) 
+A metallic bond is formed between positive metal ions and delocalized electrons in the structure. (1)
+
+15. Why are metals good conductor of heat?
+
+Ans: When a piece of metal is heated, the delocalized electrons get more energy and move faster, which collides with the neighbouring electrons. Heat is transferred in the collisions.
+
+16. Why do metals have high densities? (Ans: Metal ions are packed closely together)
+
+17. Why are metals malleable and ductile? (e.g. copper)
+
+Ans: The layers of positively charged metallic ions slide over each other when copper is
+hammered. (Non-directional metallic bonds still hold the metal ions together.) New metallic bonds are re-formed.
+
+18. Predict the formula, structure, physical properties of compounds.
+
+19. Why is the melting point of ionic compounds generally lower than that of covalent compounds?
+
+Ans: A larger amount of energy is needed to break lots of strong covalent bonds between the atoms in a giant covalent structure than to break many strong ionic bonds between the ions in a giant ionic structure.
+
+20. Identify the formula of a compound by its structure. (HARD)
+
+Common mistakes/misconceptions
+1. Ionic compounds decompose when it turns to molten state (metallic compounds don’t)
+2. Gas/liquid cannot be ‘hard’ or ‘soft’
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Chapter 10 – Occurrence and extraction of metals
+
+1. What are the uses of metals? Explain such use. (BROAD)
+
+e.g.
+a) Iron – construction, transport, ∵. Hard, strong, malleable and ductile, cheap
+b) Copper – electrical wires, ∵. Electrical conductor, ductile, corrosion resistant
+c) Aluminium – power cables, ∵Electrical conductor, low density, ductile, cheaper
+
+Tips: 
+-The reasons are closely related to the properties of the metal.
+-Other inc.: corrosion resistant, non-poisonous, low density, light but strong, excellent reflective quality
+
+2. Why are most metals found as compounds on Earth?
+
+Ans: Most metals are too reactive to exist on their own. They react with other elements and form ores.
+
+3. Identify the name/formula/chemical name of this ore. (BROAD)
+
+e.g.
+a) Bauxite = Al2O3
+b) Zinc = Zinc blende
+c) Haematite = Iron (III) oxide
+
+4. Describe the relation between the discovery of a metal and its ease of extraction.
+
+Ans: The more easily a metal can be extracted, the earlier it was discovered.
+
+5. Write down the word equation/chemical equation of the extraction of the ore: 
+
+6. What is the role of carbon in the metal extraction. (Ans: It acts as a reducing agent)
+
+7. What other substances can replace carbon in metal extraction. (Ans: Carbon monoxide, hydrogen gas)
+
+8. Why can’t we extract iron in the school laboratory? 
+
+Ans: The temp. of the Bunsen burner is not high enough (around 600-800 degrees Celsius)
+
+9. Describe how iron is extracted in a blast furnace.
+
+10. What is molten slag? (a by-product during the separation of molten steel, e.g. CaSiO3, which can be used for building materials)
+
+11. Why should we not extract lead in the school laboratory?
+
+Ans: Lead is poisonous and volatile.
+
+12. Describe the process of the extraction of lead. (Hint: there are 2 stages)
+
+13. Suggest a few ways to conserve metals. (3Rs)
+
+14. Suggest a few problems with recycling.
+
+15. Suggest the importance of recycling.
+
+16. Why are some metals discovered early but rare in nature? 
+
+17. Explain why magnesium cannot be extracted by heating magnesium oxide with carbon.
+
+Ans: It is very reactive and forms the most stable oxide.
+
+Hint: consider its ease of extraction (it might exist as a free element in nature) 
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Chapter 11 – Reactivity of metals
+
+1. What is reactivity?
+
+2. What factors can be used to compare the reactivity of metals?
+
+3. Write down the word/chemical equation of the reaction between metals and 
+a) oxygen, b) water/steam, c) dilute acid (if any) (BROAD)
+
+(Tip: remember inc. state symbol)
+
+4. Why do the surfaces of very reactive metals turn from shiny to dull when exposed to air?
+
+Ans: It reacts with oxygen in air. An oxide layer is formed on the surface of the metal.
+
+5. How should we prevent these metals from reacting with air?
+
+6. Write down the observations of the reaction between a) oxygen, b) water/steam, c) dilute acid and the following metals: (BROAD)
+
+7. Draw the experiment setups of reactions between water/steam and 
+a) calcium, b) magnesium
+
+8. What is the milky suspension formed when calcium reacts with water? 
+
+9a) Why does aluminium not seem to react with steam?
+
+Ans: Aluminium metal is usually covered with a very thin layer of aluminium oxide. The oxide layer prevents the metal from further reaction.
+
+9b). Why does the reaction between lead and dilute hydrochloric acid stop very soon?
+
+Ans: Lead (II) chloride is insoluble in water, which covers the surface of the lead metal and prevent further reaction.
+
+10. Write down the metal reactivity series.
+
+11. Why is the atomic size of potassium larger than that of calcium?
+
+Ans: Calcium has one more electron in the 4th electron shell. The nucleus of Ca contains one more positive charge than potassium. Therefore, there is a higher attractive force on the electron towards the nucleus in calcium.
+
+12. Why does the reactivity of metals decrease across a period?
+
+Ans: More energy is required for the atom to lose more electrons. (e.g. potassium is more reactive than calcium because it has one less valence electron, so it is easier to lose electrons, which means it has a higher reactivity)
+
+13. Why does the reactivity of metals increase down a group?
+
+Ans: The distance between the nucleus and the valence electron(s) of a metal atom becomes larger when it has more electron shells. As a result, the attractive forces between the nucleus and the outermost electrons becomes weaker, and the valence electrons are easily lost.
+
+14. Given a table showing the results of several experiments. Arrange the metals in ascending/ descending order of reactivity and explain your answer.
+
+Tip: Explain why ___ is the most/least reactive, then explain why __ is more reactive than __ if necessary
+
+15. Describe your observation when zinc metal is dropped into copper (II) sulphate solution.
+
+Ans: The zinc metal slowly dissolves to form colourless solution. Some reddish-brown solid forms on the zinc surface. The solution turns from blue to colourless.
+
+16. Write down the ionic equation of the following reactions:
+
+17. Predict, with reasoning, whether a reaction takes place in each of the following: 
+
+18. State and explain the difference between the HCl and H2SO4 with calcium.
+
+Ans: Calcium reacts with sulphric acid to form insoluble calcium sulphate on its surface which stops the reaction
+
+19: How do we compare the vigour of reactions between acid and metals? 
+
+
+Common mistakes/misconceptions:
+
+1. Remember to familiarize with state symbols in all reactions
