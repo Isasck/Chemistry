@@ -202,6 +202,17 @@ Ans: Calcium reacts with sulphric acid to form insoluble calcium sulphate on its
 
 19: How do we compare the vigour of reactions between acid and metals? 
 
+20. Can sodium be extracted in displacement reactions? Explain why.
+
+Ans: No, because it is too reactive. It reacts with water in the solution, forms hydrogen gas, and results in an explosive reaction
+
+21a) Suggest a way to extract copper from copper (II) chloride.
+
+Ans: We can use magnesium metal and displace copper from copper (II) chloride.
+
+21b) Is it suitable to use calcium to extract copper from copper (II) chloride? Why or why not?
+
+Ans: No, because calcium reacts with water in the solution to form hydrogen gas.
 
 Common mistakes/misconceptions:
 
