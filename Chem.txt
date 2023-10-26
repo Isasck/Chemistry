@@ -194,11 +194,13 @@ Ans: The zinc metal slowly dissolves to form colourless solution. Some reddish-b
 
 16. Write down the ionic equation of the following reactions:
 
-17. Predict, with reasoning, whether a reaction takes place in each of the following: 
+17. Predict, with reasoning, whether a reaction takes place in each of the following: (e.g. Magnesium is added to dilute hydrochloric acid)
+
+Ans: Yes. Metals (Magnesium) react with dilute acid (hydrochloric acid) to form metal salt (magesnium chloride). (Incorrect: Magnesium is more reactive than hydrogen.)
 
 18. State and explain the difference between the HCl and H2SO4 with calcium.
 
-Ans: Calcium reacts with sulphric acid to form insoluble calcium sulphate on its surface which stops the reaction
+Ans: Calcium reacts with sulphuric acid to form insoluble calcium sulphate on its surface which stops the reaction
 
 19: How do we compare the vigour of reactions between acid and metals? 
 
@@ -214,6 +216,49 @@ Ans: We can use magnesium metal and displace copper from copper (II) chloride.
 
 Ans: No, because calcium reacts with water in the solution to form hydrogen gas.
 
+22. State the observation when sodium reacts with water.
+
+Ans: Sodium melts to form a silvery ball and moves about quickly on the water surface. In addition, it burns with a golden yellow flame. (X produce colourless gas)
+
+23a) Suggest a method to distinguish between magnesium sulphate solution and zinc sulphate solution. State the expected observation(s).
+
+Ans: Add a piece of magnesium to both solutions with magnesium sulphate and zinc sulphate. There is no observable change in magnesium sulphate solution.
+     Mangesium dissolves in zinc sulphate solution to form a colourless solution and a black solid.
+
+23b) Can we use aluminium in the above suggested method? Why?
+
+Ans: No. Aluminium metal is usually coated with aluminium oxide, which prevents the aluminium to react with the other metal sulphate in aqueous solution. Fresh aluminium needs to be used,
+     but is very difficult to extract in the laboratory as it is very reactive with oxygen.
+
+24. Write down the observation for the reaction between zinc and copper (II) oxide.
+
+Ans: The mixture glows, and it burns with a bluish green flame upon heating. Yellow solid is observed. 
+     When the mixture cools down, some white solid and reddish brown solid is seen.
+
+
 Common mistakes/misconceptions:
 
 1. Remember to familiarize with state symbols in all reactions
+
+2. If displacement reaction does not occur, it does not mean that the reaction has no observable change. 
+    (e.g. zinc oxide + copper --heat--> white ZnO turns yellow, surface of copper metal turns black)
+
+Chapter 12 -- Reacting Masses
+
+1. Define relative atomic mass. (The weighted average of the isotopic masses of all isotopes of an element on the carbon-12 scale)
+
+2. Find the molecular mass of sodium chloride.
+
+3. Given that the formula mass of calcium carbonate is 100.1. Find its molar mass.
+
+Ans: NaCl is not a molecule so there is no molecular mass.
+
+4. What is a mole?
+
+Ans: One mole of substance represent by a formula is the amount containing the same number of formula unit as the number of atoms in 12g of carbon-12.
+
+
+Common mistakes/misconceptions/remarks:
+
+1. The mass of X and X ion is same because the mass of electron is negligible.
+
