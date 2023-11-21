@@ -257,8 +257,126 @@ Ans: NaCl is not a molecule so there is no molecular mass.
 
 Ans: One mole of substance represent by a formula is the amount containing the same number of formula unit as the number of atoms in 12g of carbon-12.
 
+5. What is the mathematical relationship between molar mass, moles, mass, formula units and Avogadro's constant.
+
+6. Calculate the percentage by mass of an element in a compound.
+
+7. State the definiton of a) empirical formula b) molecular formula c) structural formula
+
+Ans: a) Empirical formula of a compoudn is the formula which shows the simplest whole number ratio of the atoms or ions present.
+     b) Molecular formuila of a compound is the formula which shows the actual number of atoms in one molecule of the substance.
+     c) Structural formula of a compound is the formula which shows how the constitutent atoms are joined up.
+
+8. Determine the empirical formula (and molecular formula if any) of an unknown compound by finding its mass, number of moles or by using the percentage mass of its constitutent atoms.
+
+9. Calculations based on equations. (e.g. mass required to react with sth completely, mass of sth produced)
+
+10. Calculate the theoretical yield, actual yield and percentage yield of the following reactions.
 
 Common mistakes/misconceptions/remarks:
 
 1. The mass of X and X ion is same because the mass of electron is negligible.
+
+2. Ionic compounds don't have molecular formula
+
+Chapter 13 -- Corrosion of Metals and their Protection
+
+1. What is corrosion of metal? (Ans: te slow reactoin of a metal with air, water or other substance in the environment)
+ 
+2. What is the nature of the corrosion of metal?
+
+Ans:
+    - usually destructive by converting metals into oxides
+    - sometimes constructive (e.g. sacrificial protection)
+ 
+3. Provide an example of a metal that corrodes easily and one that never corrodes
+ 
+4. What is rusting, what are the conditions for it to occur?
+ 
+5. In the experiment to find the conditions of rusting, what is the use of a) anhydrous calcium chloride b) layer of oil c) boiled distilled water 
+
+Ans:
+    a) It acts as a drying agent, removing moisture from air, tests whether H2O is necessary rusting
+    b) It prevents oxygen from dissolving in water, tests whether oxygen is necessary for rusting
+    c) It does not contain dissolved oxygen as dissolved gases are removed during boiling, tests whether oxygen is necessary
+ 
+6. Describe the process of rusting and write the chemical equations for the reactions that occur
+
+Ans:
+    - Iron loses electrons to form iron (ii) ions
+    - The dissolved oxygen and water accept the elections to form hydroxide ions
+    - The iron (ii) ions and hydroxide ions formed combine to form insoluble iron (ii) hydroxide (s) (green)
+    - Insoluble iron (ii) hydroxide reacts with dissolved oxygen and water to form iron (iii) hydroxide (s) (yellow/ brown)
+    - Iron (iii) hydroxide changes to hydrated iron (iii) oxide, which is rust, a reddish brown solid
+    - Rusting continues until the iron piece corrodes completely
+ 
+7. What is a half ionic equation?
+
+Ans: An ionic equation which does not show substances that receives electrions
+ 
+8. Why does rusting occur after a layer of rust forms on the surface of an iron object?
+
+Ans: The layer of rust does not stick on the iron surface tightly so it does not act as a protective layer to prevent further reaction
+ 
+9. What are the factors that speed up rusting?
+ 
+10. What are electrolytes and how can they speed up rusting?
+Ans: Substances that conduct electricity in molten or aqueous state. they provide a conduction medium which allows iron to lose electrons more readily to form iron ions
+ 
+11. How can we observe rusting using rust indicator?
+
+Ans:
+    - place an iron nail in a warm gel containing a rust indicator solution
+    - the region near the head and tip of the nail turns blue which indicates the formation of iron (ii) ions (reacts with potassium hexacyanoferrate III)
+    - the region near the body of the nail turns pink which indicates the formation of hydroxide ions (reacts with phenolphthalein)
+ 
+12. What are the ways used to protect iron from rusting?
+ 
+13. What is galvanised iron?
+ 
+14. Is tin or zinc plating better to protect iron from rusting?
+
+Ans:
+    - Both tin and zinc can protect iron from water and oxygen when undamaged
+    - Tin is cheaper and non-poisonous. However, the rate of rusting increases when the tin coating is damaged.
+    - Zinc is more expensive and poisonous (may contaminate food). However, zinc still protects the iron from rusting after the zinc layer is damaged as zinc is more reactive than iron
+ 
+15. What is electroplating and what are its advantages and disadvantages?
+
+    - an electrical process in which a thin layer of metal (usually chromium) is plated on an object, which protects the object from contacting air and water
+    - attractive/beautiful shiny appearance
+    - high cost because electrolysis is invovled during the process, which requires electricity supply
+
+16. Can a) magnesium b) copper be used as sacrificial protection?
+ 
+17. What is an alloy?
+    - a mixture of elements where at least 1 element is metal
+ 
+18. Why is stainless steel corrosion resistant?
+    - The layer of chromium (iii) oxide formed on the surface acts as a protective layer as it is impermeable to air and water
+ 
+19. Compare the effectiveness of rusting prevention methods (plastic, painting, tin, electroplating, zinc, alloying)
+ 
+20. Why is aluminium corrosion resistant? (Ans: a thin layer of aluminium oxide which is impermeable to oxygen and water is formed on the surface of Al)
+ 
+21. How can we improve the corrosion resistance of aluminium? (Ans: Anodization, increase the thickness of the oxide layer)
+ 
+22. Why can anodised aluminium be easily dyed?
+
+Ans: Anodised aluminium have many pores left of the surface, which allows large organic molecules (dyes) to be easily trapped.
+
+23. Other than corrosion resistance and dye, suggest one advantage of using aluminium to make cans.
+
+Ans: Low density, malleable, easy to mould and recycle
+
+24. In the test for rusting, what happens if a magnesium ribbon is wrapped around the iron nail?
+
+Ans: Pink colour is observed because mangesium is more reactive and loses electrons more readily. The delocalized electrons then react with dissolved 
+     oxygen and water to form hydroxide ions. Gas bubbles evolved because magnesium reacts with hot water to form hydrogen gas. However, no blue colour 
+     is observed because iron atoms do not lose electrons to form iron (II) ions.
+
+25. Consider iron cans coated with a thin layer of tin. Explain whether these cans would corrode more readily once their surfaces are damaged by scratching.
+
+Ans: Iron cans would corrode more easily. As tin is less reactive than iron, iron loses electrons more readily. When the protective layer of tin is revmoved,
+     iron is exposed to oxygen and water, which may lead to corrosion  
 
