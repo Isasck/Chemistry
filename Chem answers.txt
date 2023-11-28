@@ -162,3 +162,85 @@ Chapter 11
 
 24. The mixture glows, and it burns with a bluish green flame upon heating. Yellow solid (zinc oxide) is observed. When the mixture cools down, some white solid
     and reddish brown solid is seen.
+
+Chapter 12
+
+1. Relative atomic mass is the weighted average of isotopic masses of all naturally occuring isotopes of an element on the carbon-12 scale.
+
+2. Sodium chloride is not a molecule so there is no molecular mass.
+
+3. The molar mass of a substance is numerically the same as its formula mass, so the molar mass of calcium carbonate is 100.1 as well.
+
+4. One mole of substance represented by a formula is the amount containing the same number of formula unit as the number of atoms in 12g of carbon 12.
+
+5. mole = mass / molar mass, mole = no. of formula units / Avogadro's constant
+
+7a) Empirical formula is the formula which shows the simplest whole number ratio of atoms or ions present.
+7b) Molecular formula is the formula which shows the actual number of atoms in one molecule of the substance.
+7c) Structural formula is the formula which shows how the constitutent atoms are joined up in the substances.
+
+Chapter 13
+
+1. Corrosion of metals refers to the slow reaction between a metal with air, water or other substances in the environment.
+
+2. It is usually destructive by converting metals into oxides. It is sometimes constructive.
+
+3. Potassium is very reactive and corrodes easily, while gold is unreactive and never corrodes.
+
+4. Rusting is the corrosion of iron. It takes place when iron is exposed to oxygen in air and water.
+
+5a) Anhydrous calcium chloride acts as a drying agent and removes moisture in the air. It tests whether water is needed during rusting.
+5b) The layer of oil prevents gases in the air from dissolving in the boiled distilled water. It tests whether oxygen is needed during rusting.
+5c) It has no dissolved oxygen as gases are removed during boiling. It tests whether oxygen is needed during rusting.
+
+6. First, iron atoms loses electrons to form iron (II) ions. Secondly, dissolved oxygen and water accept the electrons to form hydroxide ions. Then, iron (II) ions
+   react with hydroxide ions to form iron (II) hydroxide. Next, iron (II) hydroxide reacts with dissoled oxygen and water to form iron (III) hydroxide. Finally, 
+   iron (III) hydroxide changes to hydrated iron (III) hydroxide, a reddish brown solid, which is known as rust. Rusting continues until the iron corrodes completely.
+
+7. An ionic equation which does not show the substances that receive electrons.
+
+8. The layer of rust does not stick onto the surface of the iron tightly so it does not act as a protective layer to prevent further reaction.
+
+9. -Presence of acidic pollutants or electrolytes
+   -Increased temperature
+   -Attached to a less reactive metal
+   -Scratched, bent or sharp area 
+
+10. Electrolytes are substances that conduct electricity in molten or aqueous state. They provide a conduction medium for the transfer of electrons. Iron loses electrons
+    more readily to form iron (II) ions as a result.
+
+11. Place an iron nail in a warm gel containing rust indicator solution. Blue colour indicates that iron (II) ions are present, as it reacts with potassium hexacyanoferrate (III). 
+    Pink colour indicates that hydroxide ions are present, as it reacts with phenolphthalein. 
+
+12. Painting, applying oil and grease, plastic covering, surface protection like tin plating, electroplating, sacrificial protection like zinc plating, cathodic protection, and alloying.
+
+13. Galvanized iron is iron covered with a layer of zinc on its surface.
+
+14. When undamaged, both tin and zinc can protect iron from rusting. When damaged, only zinc can protect iron from rusting, because it is more reactive than iron and loses electrons
+    more readily. However, zinc plating more expensive and is poisonous. Tin plating is cheaper and non-poisonous, but the rate of rusting increases when the tin coating is damaged.
+
+15. Electroplating is a electrical process in which a thin layer of metal is coated on the surface of an object, which prevents it from contacting air and water. Advtanges:
+    beautiful shiny appearance; Disadvantages: high cost because electrolysis is invovled in the process, which requires electricity supply
+
+16a) Magnesium can be used a sacrificial protection. It is more reactive than iron and loses electrons more readily, so magnesium corrodes instead of iron.
+16b) Copper cannot be used a sacrificial protection. It is less reactive than iron and causes iron to lose electrons more readily, so iron corrodes faster.
+
+17. A mixture of different metals in which at least one element is a metal.
+
+18. The layer of chromium (III) oxide formed on the iron surface acts as a protective layer.
+
+19. alloying > zinc > electroplating/tin > painting (on clean surface) > plastic/painting (on rust)
+
+20. Aluminium is usually covered with a layer of aluminium oxide which is impermeable to oxygen and water, thus preventing rusting.
+
+21. Anodization, which increases the thickness of the aluminium oxide layer on the aluminium surface.
+
+22. Anodized aluminium has many pores on its surface, which allows large organic molecules like dyes to be easily trapped.
+
+23. Low density, malleable, easy to mould and recycle.
+
+24. Pink colour is observed because magnesium loses electrons readily. The dissolved oxygen and wataer accept the electrons to form hydroxide ions, which reacts with phenolphthalein.
+    Gas bubbles evovled because magnesium reacts with hot water to form hydrogen gas. However, no blue colour is observed because iron atoms do not lose electrons to form iron (II) ions.
+
+25. Yes. Tin acts a protective layer which prevent oxygen and water from contacting iron and start rusting. However when the tin layer is removed, iron is exposed to air and water, which
+    leads to corrosion.
