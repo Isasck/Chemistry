@@ -249,9 +249,9 @@ Chapter 12 -- Reacting Masses
 
 2. Find the molecular mass of sodium chloride.
 
-3. Given that the formula mass of calcium carbonate is 100.1. Find its molar mass.
-
 Ans: NaCl is not a molecule so there is no molecular mass.
+
+3. Given that the formula mass of calcium carbonate is 100.1. Find its molar mass.
 
 4. What is a mole?
 
@@ -262,10 +262,6 @@ Ans: One mole of substance represent by a formula is the amount containing the s
 6. Calculate the percentage by mass of an element in a compound.
 
 7. State the definiton of a) empirical formula b) molecular formula c) structural formula
-
-Ans: a) Empirical formula of a compoudn is the formula which shows the simplest whole number ratio of the atoms or ions present.
-     b) Molecular formuila of a compound is the formula which shows the actual number of atoms in one molecule of the substance.
-     c) Structural formula of a compound is the formula which shows how the constitutent atoms are joined up.
 
 8. Determine the empirical formula (and molecular formula if any) of an unknown compound by finding its mass, number of moles or by using the percentage mass of its constitutent atoms.
 
@@ -281,7 +277,7 @@ Common mistakes/misconceptions/remarks:
 
 Chapter 13 -- Corrosion of Metals and their Protection
 
-1. What is corrosion of metal? (Ans: te slow reactoin of a metal with air, water or other substance in the environment)
+1. What is corrosion of metal? (Ans: te slow reaction of a metal with air, water or other substance in the environment)
  
 2. What is the nature of the corrosion of metal?
 
@@ -321,7 +317,7 @@ Ans: The layer of rust does not stick on the iron surface tightly so it does not
 9. What are the factors that speed up rusting?
  
 10. What are electrolytes and how can they speed up rusting?
-Ans: Substances that conduct electricity in molten or aqueous state. they provide a conduction medium which allows iron to lose electrons more readily to form iron ions
+Ans: Substances that conduct electricity in molten or aqueous state and undergoes decomposition. They provide a conduction medium which allows iron to lose electrons more readily to form iron ions
  
 11. How can we observe rusting using rust indicator?
 
@@ -380,3 +376,109 @@ Ans: Pink colour is observed because mangesium is more reactive and loses electr
 Ans: Iron cans would corrode more easily. As tin is less reactive than iron, iron loses electrons more readily. When the protective layer of tin is revmoved,
      iron is exposed to oxygen and water, which may lead to corrosion  
 
+Chapter 14 -- Introduction to acids and alkalis
+
+1. Name the acids present in a) citrus fruits b) soft drinks c) vitamin C d**) acid rain 
+
+2. Name the definition and properties of acids.
+
+Ans: 
+-An acid is a molecular compound which forms hydrogen ions as the only cations when dissolved in water.
+-Acid are electrolytes (mobile ions are present)
+-Most acids have a sour taste
+-They turn moist blue litmus paper red
+-acid + metal --> metal salt + hydrogen     (for metals higher than copper in the metal reactivity series)
+-acid + carboante --> salt + water + carbon dioxide       (effervescence occurs)
+-acid + hydrogencarbonate --> salt + water + carbon dioxide
+-acid + metal oxide/hydroxide --> salt + water (neutralization)
+
+3. Name the definition and properties of alkalis
+
+-Alkali is a substance which neutralize acids and is water-soluble (including slightly soluble)
+-Alkalis are electrolytes
+-They feel slippery
+-Most alkalis have a bitter taste
+-They turn moist red litmus paper blue
+-alkali + acid --> salt + water (neutralization)
+-alkali + carbon dioxide --> carbonate + water
+-alkali + ammonium compound --> salt + ammonia + water
+-alkali + metal salt --> metal hydroxides + metal compound
+
+4. What is the definition of salt.
+
+Ans: A compound formed by replacing hydrogen ion or ammonium ion in acid with metal ion.
+
+5a) Describe the process for testing carbon dioxide.
+5b) What happens when excess carbon dioxide is added to limewater. Write down the equations involved.
+
+6. Why must acid be in aqueous state in order for it to show its acidic properties? (ionization)
+
+Ans: When acid crystals dissolve in water, the molecules ionize to give hydrogen ions H+ (aq). All acidic properties are due to the presence of hydrogen ions.
+
+7. Why does pure sulphric acid and nitric acid not show any acidic properties.
+
+8. By using an equation, explain how baking powder makes cake spongy.
+
+Ans: 2NaHO3 --> Na2CO3 + CO2 + H2O, carbon dioxide produced creates air spaces when it leaves the food which makes cake spongy
+
+10. Explan how fizzy drink tablets work and how powder effervesce.
+
+11. What is the basicity of acid?
+
+12. Suggest some common types of bases and their usage in daily life if any.
+
+13. Why does soil turn acidic?
+
+Ans: 
+-Acid rain contains pollutants such as sulphur dioxide and nitrous oxides which dissolve in water to form acids.
+-Products formed by the decomposition of plants by microorgranisms are acidic
+
+14. Name the properties of ammonia. (Ans: pungent smell, very volatile, water-soluble, less dense than air)
+
+15. Name the colour of precipitate formed when different metal salts react with alkali.
+
+16a) Design an experiment to test the reaction between alkali and an ammonium compound and to collect ammonia.
+16b) Why do we lift the test tube in the above set-up suggested?
+
+17. Which of the metal hydroxides redissolve in a) excess sodium hydroxide b) excess ammonia? Explain why.
+
+18. Suggest 2 methods to distinguish between NaHCO3 (aq) and Na2CO3 (aq).
+
+Ans:
+Method 1: Add calcium chloride. Only white precipitate is formed in a solution containing Na2CO3.
+Method 2: Add acid to both solutions. NaHCO3 absorbs heat whereas Na2CO3 releases heat.
+
+19. Write down the chemical equation for the reaction between metal salt and ammonia. (e.g. FeCl2)
+
+20. What is the difference between ionization and dissociation.
+
+21. State the properties of concentrated HCl, H2SO4, HNO3. Explain why should be done if concentrated acid touches our skin.
+
+HCl: colourless corrosive liquid that gives out white fumes in air
+HNO3: turns yellow on storage due to presence of dissolved nitrogen dioxide formed from decomposition of some of the acid, oxidizing and very corrosive, decomposes under light
+H2SO4: colourless oily liquid, has dehydrating and oxidizing property
+Safety: Wash the affected area with plenty of water then with very dilute sodium hydrogencarbonate solution
+
+22. State the properties of concentrated alkalis. Explain why should be done if concentrated alkali touches our skin.
+
+NaOH, KOH: very corosive, attack the skin readily and stain it yellow or even black
+Safety: place the affected area under slowly running cold water
+
+23. Suggest some safety precautions when handling concentrated acids and alkalis.
+
+24. Describe the process of the following experiments:
+a) copper + concentrated nitric acid
+b) sugar (sucrose) + concentrated sulphric acid
+
+25. Explain how to prepare limewater in a laboratory with an experiment.
+
+26. Explain how to distinguish between 3 solutions containing zinc ions, magnesium ions, and lead (II) ions respectively.
+
+Common misconceptions/ other tips:
+1. All group I metals, compoounds consisting of nitric ions or hydrogencarbonate ions are soluble in water
+2. During ionization, the covalent bonds of acids are broken. (new charged particles formed)
+3. Hydrogen ion combines with water molecules to form hydronium ion. (cannot exist alone in aqueous solution)
+4. Most acids ionize while most alkalis dissociate in water. However, ammonia ionizes slightly to give ammonium and hydroxide ions. 
+5. NH4OH does not exist as an ionic compound
+6. H2SO4 has a dehyrating property = removes hydrogen and oxygen in the ratio 2:1 from the substance (drying agent: removes moisture)
+    (e.g. glucose + conc. H2SO4 --> 6H2O + 6C) (black solid is formed)
