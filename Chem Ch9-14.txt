@@ -235,13 +235,14 @@ Ans: No. Aluminium metal is usually coated with aluminium oxide, which prevents 
 Ans: The mixture glows, and it burns with a bluish green flame upon heating. Yellow solid is observed. 
      When the mixture cools down, some white solid and reddish brown solid is seen.
 
-
 Common mistakes/misconceptions:
 
 1. Remember to familiarize with state symbols in all reactions
 
 2. If displacement reaction does not occur, it does not mean that the reaction has no observable change. 
     (e.g. zinc oxide + copper --heat--> white ZnO turns yellow, surface of copper metal turns black)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Chapter 12 -- Reacting Masses
 
@@ -274,6 +275,8 @@ Common mistakes/misconceptions/remarks:
 1. The mass of X and X ion is same because the mass of electron is negligible.
 
 2. Ionic compounds don't have molecular formula
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Chapter 13 -- Corrosion of Metals and their Protection
 
@@ -375,6 +378,8 @@ Ans: Pink colour is observed because mangesium is more reactive and loses electr
 
 Ans: Iron cans would corrode more easily. As tin is less reactive than iron, iron loses electrons more readily. When the protective layer of tin is revmoved,
      iron is exposed to oxygen and water, which may lead to corrosion  
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Chapter 14 -- Introduction to acids and alkalis
 
@@ -486,4 +491,5 @@ Common misconceptions/ other tips:
 8. Ammonia gas is colourless and can be seen
 9. Chlorine gas can react with NaOH to form NaClO, NaCl and H2O (remove OH- ions)
 10. Remember to check if the acid is in aqeuous state or solid state 
-11.
+11a) Basicity of citric acid is 3
+11b) In organic acids, look for acid groups (COOH) to determine which hydrogen atom is ionizable (e.g. HO-C is not ionizable)
