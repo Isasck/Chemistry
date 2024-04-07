@@ -1,0 +1,188 @@
+Chapter 15 -- Concentration of solutions
+
+1. What is the unit of concentration and molarity?
+
+2. State the definition of concnetration.
+
+3. Calculations questions
+a) Basic types (e.g. finding no. of moles of solute with given molarity, M1V1 = M2V2)
+b) Involves chemical equations (e.g. includes mole ratio of atoms and compounds)
+c) Advanced types
+    i) find molarity of acid with given density of acid and mass percentage of acid (need to let 100cm3 of acid)
+    ii) from i) find the volume of acid needed to dilute a certain molarity of solution (check q5)
+
+4. Why are commonly used solutions often purchased or prepared in concentration form?
+
+5. Describe the purpose and process of dilution.
+
+Common mistakes/misconceptions, tips:
+1. Remember molarity = no. of moles of SOLUTE / volume of SOLUTION 
+2. Always check if cm3 or dm3 is used
+3. Do more practice questions on textbook
+4. Remember to include the correct unit for long question calculations (e.g. molar mass = g mol^-1)
+5. In dilution, volume of solution is always equal to volume of water plus volume of another liquid solution (e.g. ethanol) even if they have different densities.
+    (provided that density is given) (form 2nd term test 1 MC Q1)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Chapter 16 -- Indicators and phenolphthalein
+
+1. According to the principle of self-ionisation of water, why does water not conduct electricity even though it has mobile ions?
+
+Answer: The self-ionisation of water is relatively rare and only a small fraction of molecules ionizes to form mobile ions in one time.
+        The low concentration of ions resulting from self-ionization is insufficient to facilitate the flow of electric current.
+
+2. What does a pH value represent?
+
+3. State the purpose of a pH scale. (Ans: It is used to measure the degree of acidity or alkalinity of a solution)
+
+4a) What is an indicator? (Ans: It is a substance which gives different colours in acidic and alkaline solutions)
+4b) State three types of common acid-base indicators found in the laboratory and their respective colours at different pH levels.
+
+5. What are the 2 usages of buffer solution in pH sensors?
+
+Answer: (1) To provides a stable environment for the pH sensor/maintain a constant pH and allows more accurate detection of H+ (2) For callibration* 
+*(By immersing the sensor in the buffer solution, it establishes a baseline reading and allows for accurate pH measurement of other unknown solutions.)
+
+6a) State the advantages of using a pH meter rather than indicator solutions.
+
+Answer: Easy to use,  quick to obtain accurate readings, can measure solutions of intense colour
+
+6b) State the advatanges of using a  data logger with a pH sensor.
+
+Answer: can be used in remote/dangerous situations, can be carried out 24/7, more accurate (X human error), frequent time intervals for collecting data etc.
+
+7. A sample of conc. hydrochloric acid contains 35% by mass of HCl in the solution The density of the acid is 1.19g cm^-3. Find:        (from 2nd term test 1)
+    a) The molarity of 1500cm^3 of the acid. b) Volume of conc. hydrochloric acid and water required to make 50cm^3 of 1M hydrochloric acid from the above conc. acid.
+
+Common mistakes/misconceptions, tips, extra info:
+1. [H+][OH-] = 10^-14
+2. pH value of an acid can be lower than 0 (e.g. 10M of HCl). However, note that there is a maximum molarity of each type of acid. (e.g. HCl: 12.1M)
+3. The colour of indicators (e.g. methyl orange) shown at different pH levels also depend on its concentration. (slight variations)
+4. The pH shown by universal indicators can only be an integer if the colour scale only consists of integers.
+    (e.g. if it lies between pH 1 and pH 2 we cannot say the pH is 1.5, instead just compare which is closer)
+5. Buffer solutions can have different pH (e.g. pH4: acetic acid-sodium acetate buffer, pH7: phosphate buffer, pH10: borate buffer)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Chapter 17 -- Strength of acids and alkalis
+
+1. State the definition of strength and concentration.
+
+2. State the difference between strong/weak acids/alkalis.
+
+3. Give a few examples of strong/weak acids/alkalis.
+
+4a) Suggest 2 physical methods and 1 chemical method to distinguish the strength between two acids with the same molarity.
+
+-pH, electrical conductivity
+-add magnesium and compare the rate of gas bubbles evolved per unit time
+
+4b) Suggest another chemical method for distinguishing the strength between two alkalis.
+
+-compare moles of salt formed in neutralization between HCl and 2 different alkalis (mass cannot be compared because different salts have different relative atomic masses)
+-compare the heat evolved in neutralization reaction (higher temperature change, stronger alkali)
+
+5. Write the two step reaction of sulphric acid and sodium hydroxide.
+
+6. List a method of neutralizing acidic soil. (from 2nd term test 1)
+
+7. Provided with magnesium carbonate, outline an experiemtnt to show that sulphuric acid is a stronger acid than sulphurous acid. (from ch16-17 homework)
+
+8. Compare rate of reactions in the two test tubes containing 2 different acids with same pH and same volume of sodium carbonate solution.
+
+Answer: Rate of reaction is the same. The 2 solutions have the same concentratoin of H+ (aq) because they have the same pH.
+
+Common mistakes/misconceptions:
+1. When calculating the pH of an acid with -log[H+(aq)], always check if the acid is a STRONG/WEAK acid. 
+    -If it is a weak acid, the calculated pH must be lower than that of the actual pH.
+    (e.g. 1.0M of sulphurous acid does not produce 2.0M of H+ because it is a weak acid which only ionizes slightly in water)
+    -When molarity of acid with given pH, remember to explain that the acid used is a strong acid, which ionizes completely to give the destinated moles of H+(aq)
+2. When outlining experiments, write all controlled, dependent and independent variables invovled. 
+    (e.g. solutions of same volume, molar concentration, solids of same mass and surface area, compare rate/vigour of reactions/evolution of colourless gas bubbles)
+3. When differentiating between the strength of two acids, the steps for explanations are:
+    a) <acid> shows a higher rate of <reaction>
+    b) <acid> is a strong acid while <acid> is a weak acid
+    c) For the same molar concentration, <strong acid> has a higher concentration of H+ (aq) to react with <reactant> compared with <weak acid>
+4. pH determines the concentration of hydrogen ions in an acid. With a fixed concentration, the strength of different acids does not affect its pH.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Chapter 18 -- Salts and Neutralization
+
+1. State the definition of neutralization.
+
+2. Is neutralization an exothermic or endothermic reaction?
+
+3. Refering to experiment 18.1 for the setup of neutralization between NaOH and HCl. Answer the following:
+    a) What is the main source of error in this experiment?
+    b) Suggest 3 methods of improvement based on your answer in a)
+    c) Why is the temperature change the same in the 2 setups with different volumes of acids and alkalis?
+    d) What happens if HCl is replaced with CH3COOH? What happens if NaOH with NH3?
+    e) Why does the temperature of the solution drop if excess acid or alkali is addded?
+    f) What are the usages of cotton wool and polystyrene cup in this experiment?
+
+4. For the applications of neutralization, 
+    a) Suggest 3 agents that are used to reduce the acidity of soil. What is the name of this kind of method?
+    b) Suggest 2 agents that are used to increase the acidity of soil. 
+    c) What are antacids? What kind of bases does it commonly include?
+    d) What are the side effects of the above bases in c)?
+    e) What are Na2CO3 and CaCO3 not used in antacids, even if acids can react with carbonate?
+    f) What are the common industries that produce acidic waste? What is added to neutralize the waste?
+    g) Write the chemical equations for i) soil pH control ii) fertilizer production iii) antacids iv) treating industrial waste
+
+5. What is the definition of salt?
+
+6. What are the two important steps of preparing a salt?
+
+7. Suggest the method(s) of preparation and method of separation of a) insoluble salts and b) soluble salts.
+
+8. How should we a) clean and b) dry the salt crystals after separation? Suggest a few methods and list out the pros and cons if any.
+
+9a) To obtain a solution of CuSO4 (aq), someone suggests that excess H2SO4 (aq) instead of CuO (s) can be used. Comment on the statement.
+9b) Why is excess CuO (s) needed in the reaction?
+
+10a) In the preparation of zinc sulphate, why can't zinc hydroxide and sulphuric acid be used? (Answer: Zinc hydroxide is not commonly found in the lab as a reagent.)
+10b) How can we determine if the reaction has ended in adding zinc metal with sulphuric acid? (Answer: No colourless gas bubbles/zinc does not dissolve)
+
+11. What is the purpose of washing the crystals? Why must distilled water instead of tap water be used?
+
+Answer: It is to wash away the solution from the crystals and replace it with distilled water. Distilled water will not deposit impurities on the crystals.
+
+12. Draw the set-up and list out the procedures for a) preparation of zinc sulphate crystals b) preparation of sodium chloride
+
+13. Why can't calcium and nitric acid be used to obtain calcium nitrate?
+
+Answer: Calcium reacts with water in the nitric acid to form hydrogen gas and calcium hydroxide, so pure calcium nitrate solution cannot be obtained after filtration.
+
+14. How can we remove methyl orange indicator in the titration setup? (adsorption by activated charcoal, warmed, filtered)
+
+15. In preparing insoluble salts, why is the method of adding acid to insoluble base/insoluble carbonate unsatisfactory? Give an example.
+
+Common misconceptions/mistakes, tips:
+1. Memorise the solubility rule well and naming of salts.
+2. Reagent means substance
+
+Chapter 19 -- Volumetric analysis involving acids and alkalis
+
+Q1. Volumetric analysis basics
+1a) What is volumetric analysis used for?
+1b) State the 2 processes of volumetric analysis
+1c) State a few common apparatus used in volumetric analysis
+
+Q2. Preparation of a standard solution
+2a) Define standard solution.
+2b) Define primary standard and give a few examples.
+2c) What properties does the primary standard have?
+2d) Is NaOH a primary standard? Why or why not? (No, because it absorbs CO2 and moisture in the air so it is difficult to meausre its weight.)
+2e) What are the 2 common preparation methods of a standard solution?
+2f) Hence list out of procedures of the method mentioned in e).
+
+03. Name a few hygroscopic substances. (Ans: NaOH/KOH, conc. H2SO4, methanol/ethanol, sugar, wood, NaCl/CaCl2/MgCl2/ZnCl2)
+
+Common misconceptions/mistakes, tips:
+1. Do a lot of calculations for this chapter
+2. Deliquescent = substance that tends to change to liquid state 
+3. Difference between 'Deliquescent' and 'hygroscopic':
+   -Deliquescent substances are substances that dissolve in water to form a liquid. This is due to the absorption of water molecules by the solid. 
+   -Hygroscopic substances are substances that attract water molecules from the air. This is due to the presence of hydrophilic groups on the surface of the solid.

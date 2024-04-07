@@ -1,0 +1,78 @@
+Book 3B -- Redox Reactions, Chemical cells, and electrolysis
+
+Chapter 28 -- Chemical cells in daily life
+
+1. What is a chemical cell? What is electricity?
+
+2. Suggest the ways to classify chemical cells.
+
+3a) What are primary cells and secondary cells? Give a few examples of primary cells and secondary cells. 
+3b) From the example stated in a, state its:
+  i) electrodes
+  ii) electrolytes
+  iii) max voltage
+  iv) shape
+  v) voltage over discharge
+  vi) approximate shelf life/rechargeability
+  vii) average life time/rechargeability
+  viii) conditions for use
+  ix) uses
+  x) advtanges 
+  xi) disadvantages
+
+4. What factors should be taken into account when choosing a dry cell?
+
+5. Suggest 3 environmental impacts of disposing of chemical cells.
+
+6a) What is meant by 'charge capacity' of a cell?
+6b) What is meant by 'energy density' of a cell?
+
+Chapter 29 -- Simple Chemical cells
+
+1. How can a simple chemical cell be set up?
+
+2. What is the difference between ions and electrons.
+
+3a) In a Mg/Cu cell, which electrode is the positive or negative electrode? Explain your answer with reference to the E.C.S.
+3b) What is the direction of electron flow through the external circuit?
+3c) Write the half ionic equations and overall equation for the reactions involved.
+3d) What are the observations at the two electrodes respectively?
+
+4. Suggest 3 factors that affects the voltage of a simple chemical cell.
+
+5. It is known that lemon, potato and grapes can be used as the electrolyte in a simple chemical cell, but watermelon cannot be used. Why?
+
+6. What is electromotive force? What dose it imply about the tendency of losing electrons in a simple chemical cell?
+
+7a) Why is it not efficient to put both electrodes in the same container with electrolyte?
+7b) What are the 2 main functions that the salt bridge serves?
+7c) What kind of solution should the salt bridge be soaked in?
+7d) Can the salt bridge be soaked in sodium hydroxide solution in the case of an Mg/Cu cell? Why or why not?
+
+8a) What does is the purpose of adding a porous pot in some simple chemical cells?
+
+Answer: It acts as a salt bridge which allows ions to move between the two solutions thorugh its small holes, so as to maintain the 
+        electrical neutrality in two half cells.
+
+8b) In a Daniell cell, what happens if no porous pot is used?
+
+Answer: The 2 electrolytes are mixed together. There is direct transfer of electrons from Cu to Ag+. No electron flow to the external circuit.
+        The reading of voltmeter is zero.
+
+Chapter 30 -- Redox reactions
+
+1. What is a redox reaction? Give a few examples of redox reactions.
+
+2. How should we test for hydrgen sulphide? (Answer: use lead (ll) ethaonate paper, it turns shiny black)
+
+3. Explain oxidation, reduction, oxidizing agents and reducing agents in terms of gain or loss of 
+    a) oxygen b) hydrogen c) electrons d) increase/decrease of oxidation number
+
+4. For the types of reaction below, state whether it is a redox reaction or not (or both in some cases).
+    a) Combustion b) Neutralization c) Precipitation d) Displacement e) Decomposition f) Corrosion of metals
+
+Common misconceptions/mistakes, tips:
+1. Oxidation numbers can be decimals.
+2. Remember all the rules for counting oxidation numbers.
+3. Oxidation number does not describe compounds, it only describes the charge of elements.
+
