@@ -244,3 +244,188 @@ Chapter 13
 
 25. Yes. Tin acts a protective layer which prevent oxygen and water from contacting iron and start rusting. However when the tin layer is removed, iron is exposed to air and water, which
     leads to corrosion.
+
+Chapter 14
+
+1. Citrus fruit: citric acid    Soft drinks: carbonic acid      Vitamin C = ascorbic acid       acid rain: sulphuric acid and nitric acid
+
+2. 
+-An acid is a molecular compound which forms hydrogen ions as the only cations when dissolved in water.
+-Acid are electrolytes (mobile ions are present)
+-Most acids have a sour taste
+-They turn moist blue litmus paper red
+-acid + metal --> metal salt + hydrogen     (for metals higher than copper in the metal reactivity series)
+-acid + carboante --> salt + water + carbon dioxide       (effervescence occurs)
+-acid + hydrogencarbonate --> salt + water + carbon dioxide
+-acid + metal oxide/hydroxide --> salt + water (neutralization)
+
+3. 
+-Alkali is a substance which neutralize acids and is water-soluble (including slightly soluble)
+-Alkalis are electrolytes
+-They feel slippery
+-Most alkalis have a bitter taste
+-They turn moist red litmus paper blue
+-alkali + acid --> salt + water (neutralization
+-alkali + carbon dioxide --> carbonate + water
+-alkali + ammonium compound --> salt + ammonia + water
+-alkali + metal salt --> metal hydroxides + metal compoun
+
+4. A compound formed by replacing hydrogen ion or ammonium ion in acid with metal ion.
+
+5. Test with limewater. Limewater turns milky in presence of carbon dioxide, which turns colourless when CO2 is in excess.
+    CO2 + Ca(OH)2 --> CaCO3 + H2O       CaCO3 + CO2 + H2O --> Ca(HCO3)2
+
+6. When acid crystals dissolve in water, the molecules ionize to give hydrogen ions H+ (aq). All acidic properties are due to the presence of hydrogen ions.
+
+7. No hydrogen ions are present.
+
+8. 2NaHCO3 --> Na2CO3 + CO2 + H2O, carbon dioxide produced creates air spaces when it leaves the food which makes cake spongy
+
+No question 9 
+
+10. Fizzy drink tablets contain a solid acid and sodium hydrogencarbonate. When it is dissolved in water, the solid acid ionizes in water to form H+ (aq).
+   H+ (aq) reacts with NaHCO3 to form CO2.
+
+11. The basicity of an acid is the maximum number of hydrogen ions produced by one molecule of an acid.
+
+12. Sodium hydroxide: foundin drain cleaners and oven cleaners
+    Ammonia: found in window cleaners
+    Calcium hydroxide: to neutralize soiul acidity in farms and gardens
+
+13. -Acid rain contains pollutants such as sulphur dioxide and nitrous oxides which dissolve in water to form acids.
+    -Products formed by the decomposition of plants by microorgranisms are acidic
+
+14. pungent smell, very volatile, water-soluble, less dense than air
+
+15. refer to textbook for complete list
+
+16a) Moist red litmus paper turns blue in presence of ammonia gas. Collect ammonia with a gas syringe.
+16b) To prevent backflow of cold-condensed water. The hot test tube may crack by sudden decrease of temperature.
+
+17. Excess NaOH: Zn(OH)2, Al(OH)3, Pb(OH)2      Excess NH3: Zn(OH)2, Cu(OH)2, Ag2O
+    This is because complex ions, which are soluble in water, are formed.
+
+18. Method 1: Add calcium chloride. Only white precipitate is formed in a solution containing Na2CO3.
+    Method 2: Add acid to both solutions. NaHCO3 absorbs heat whereas Na2CO3 releases heat.
+
+19. FeCl2 + 2NH3 + 2H2O --> Fe(OH)2 + 2NH4Cl
+
+20. Ionization is a process that produces new charged particles. Dissociation is the separation of charged particles that already exist in the compound.
+
+21.
+HCl: colourless corrosive liquid that gives out white fumes in air
+HNO3: turns yellow on storage due to presence of dissolved nitrogen dioxide formed from decomposition of some of the acid, oxidizing and very corrosive, decomposes under light
+H2SO4: colourless oily liquid, has dehydrating and oxidizing property
+Safety: Wash the affected area with plenty of water then with very dilute sodium hydrogencarbonate solution
+
+22. NaOH, KOH: very corosive, attack the skin readily and stain it yellow or even black
+    Safety: place the affected area under slowly running cold water
+
+23. Wear protective gloves and safety spetacles. Perform the experiments in fume cupboard to avoid breathing in any acid mist.
+
+24a) Brown fumes evolve, copper dissolves to form a blue solution
+24b) Solid turns black, spongy-like substance is formed
+
+25. Add excess solid calcium hydroxide in water while stirring. Filter the white precipitate to obtain saturated calcium hydroxide solution (limewater).
+
+26. Add NaOH (aq) to the 3 solutions. Only the white precipitate formed in solutions with mangesium ion does not redissolve in excess NaOH (aq).
+    Add NH3 (aq) to the 2 solutions with zinc ions and lead (II) ions. Only the white precipitate formed in solution with zinc (II) ions redissolve in excess NH3 (aq).
+
+27. -NaOH (aq) is corrosive in nature, while NH3 (aq) is highly soluble in water and highly volatile. 
+    -When applied to the soil, a significant amount of ammonia can be lost through evaporation before it has a chance to effectively neutralize the soil acidity.
+    -The high solubility can potentially lead to the leaching of ammonia, so it is easily removed by the soil water
+
+Chapter 28 
+
+1. A chemical cell is a device that converts chemical energy to electrical energy. Electricity is a flow of electric charges/charged particles.
+
+2. Chemical cells can be classified into dry cells, wet cells and fuel cells. They can also be classified into primary cells (non-rechargeable) and secondary cells (rechargeable).
+
+3a) Primary cell: zinc carbon cell, alkaline manganese cell, silver oxide cell
+    Secondary cell: lithium oxide cell, nickel-metal hydride cell, lead acid acccumulator
+3b) refer to textbook
+
+4. Shape, size, price, voltage, charge capacity (unit: mAh), shelf life, rechargeability, voltage over discharge, current required, used continuously/intermittently, operating temperature range
+
+5. Contains toxic substances (e.g. mercury in zinc carbon cell, lead in lead acid accumulator)
+   Chemicals leaked from cells may contaminate soil (e.g. nickel (II) hydroxide is carciogenic, H2SO4/KOH is corrosive)
+   Waste of materials (secondary cells can be recharged: more economically and environmentally friendly then primary cells)
+
+6a) It refers to the maximum amount of electric charge a cell can store and deliver. (determines how long a cell can provide electrical power before it needs to be recharged)
+6b) It is quantity of energy in a material per unit of volume in a cell.
+
+Chapter 29
+
+1. A simple chemical cell can be set up by dipping two different metals in an electrolyte. The two metals are connected by an external wire.
+
+2. Ions comes from an atom which loses or gains electrons. Electrons are fundamental particles of an atom.
+
+3a) Mg is the negative electrode and Cu is the positive electrode. Mg has a higher position in the ECS and loses electrons more readily than Cu.
+3b) Electron flows from the Mg electrode to the Cu electrode through the external circuit.
+3c) Mg (s) --> Mg2+ (aq) + 2e-      Cu2+ (aq) + 2e- --> Cu (s)
+3d) Magnesium electrode dissolves. Reddish brown solid is depositted at the copper electrode. 
+
+4. Contact surface area between electrode and electrolyte, concentration of electrolyte, temperature
+
+5. Watermelon contains lots of sugar which is not an electrolyte.
+
+6. Electromotive force refers to the maximum voltage of the cell. The greater the e.m.f. of a cell, the greater is the difference between the electron losing tendency
+   of the positive and negative electrode in the cell.
+
+7a) There is direct transfer of electrons from the Mg electrode to the Cu2+ ions in the solution (displacement reaction occurs). 
+7b) It completes the circuit by allowing ions to move from one half-cell into the other.
+    It provides ions to balance the charges in the solutions of the two half-cells.
+7c) It should be soaked in SATURATED potassium nitrate solution. (or saturated NH4NO3, NaNO3)
+7d) Insoluble Mg(OH)2 will be formed and blocks the salt bridge, which affects electron flow and voltage of the cell.
+
+8a) It acts as a salt bridge which allows ions to move between the two solutions thorugh its small holes, so as to maintain the electrical neutrality in two half cells.
+8b) The 2 electrolytes are mixed together. There is direct transfer of electrons from Cu to Ag+. No electron flow to the external circuit. The reading of voltmeter is zero.
+
+Chapter 30
+
+1. A redox reaction is a process in which reacting substances undergo changes in oxidation number. The reaction between hydrogen sulphide and oxygen is a redox reaction.
+
+2. Use lead (II) ethanoate paper. It turns shiny black.
+
+3. Oxidation is the process in which a substance gains oxygen/loses hydrogen/loses electrons/increases in oxidation number.
+   Reduction is the process in which a substance loses oxygen/gains hydrogen/gains electrons/decreases in oxidation number.
+   Oxidation agent is a substance that loses oxygen/gains hydrogen/accepts electron/decreases in oxidation number.
+   Reduction agent is a substance that gains oxygen/loses hydrogen/loses electrons/increases in oxidation number.
+
+4. Redox Reactions: combustion, displacement, decomposition, corrosion of metals
+   Non-redox reactions: neutralization, precipitation, decomposition
+
+5. The oxidation number of an element in a compound is the charge of an atom of the element would have if the atom existed as an ion.
+
+6. Refer to list in textbook
+
+7. When concentrated nitric acid is added to solid Fe2+ salts, the salts dissolve to form a yellow solution. Brown gas is evolved on the surface of the solution. 
+   In the reaction, concentrated nitric acid is reduced to form nitrogen dioxide gas, while Fe2+ ions are oxidized to form Fe3+ ions. When concentrated nitric acid is added to aqueous Fe2+ salts, the pale green solution turns yellow. 
+   Brown gas evolves at the mouth of the test tube. In the reaction, concentrated nitric acid is diluted, which is reduced to form nitrogen monoxide gas. The nitrogen monoxide gas reacts with oxygen in the air to form brown nitrogen dioxide gas. 
+   Fe2+ ions are reduced to form Fe3+ ions.
+
+8. Rest with a filter paper soaked with a suitable oxidizing agent like KMnO4-/H+. In presence of SO2, the colour of the filter paper changes to white.
+
+9. Chlorine, compounds with hypochlorite ion (e.g. sodium hypochlorite)
+
+10. Add a non-aqueous solvent like heptane to both of the solutions. The heptane layer floats on the top and extracts most of the bromine or iodine form the bottom aqueous layer.
+    Bromine is orange-red in the heptane layer while iodine is purple.
+
+11. The reaction in which a species is simultaneously reduced and oxidized in called a disproportionation reaction.
+
+12. It reacts to form toxic chlorine gas.
+
+Chapter 31
+
+1. Inert electrodes are electrodes that do not take part in the cell reaction. They only provide a surface for cell reaction.
+
+2. No. There is direct transfer of electrons between the 2 electrolytes (from reducing agent to oxidizing agent)
+
+3. A fuel cell is a type of primary cell in which the reactants are continuously replaced as they are consumed and the products are continuously removed.
+
+4. They act as electrical conductors connecting the fuel cell to the external circuit, but also as catalyst for the reactions which occur in the cell.
+
+5a) Advantages: provides steady supply of electricity, high efficiency of energ conversion, the only product (water) is non-polluting
+5b) Disadvantages: not easy to store/transport H2/O2, electrodes are expensive, liqeufaction of hydrogen and oxygen is expensive due to use of high pressure
+
+6. Fresh potato contains more water. More mobile ions are present for the conduction of electricity.

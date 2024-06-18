@@ -44,6 +44,7 @@ Chapter 29 -- Simple Chemical cells
 
 6. What is electromotive force? What dose it imply about the tendency of losing electrons in a simple chemical cell?
 
+Consider the case of a Mg/Cu cell
 7a) Why is it not efficient to put both electrodes in the same container with electrolyte?
 7b) What are the 2 main functions that the salt bridge serves?
 7c) What kind of solution should the salt bridge be soaked in?
@@ -59,6 +60,10 @@ Answer: It acts as a salt bridge which allows ions to move between the two solut
 Answer: The 2 electrolytes are mixed together. There is direct transfer of electrons from Cu to Ag+. No electron flow to the external circuit.
         The reading of voltmeter is zero.
 
+Common misconceptions/mistakes, tips:
+1. SATURATED solution must be used in a salt bridge.
+2. Lithium ion cells are relatively expensive. (but it is lightweight)
+
 Chapter 30 -- Redox reactions
 
 1. What is a redox reaction? Give a few examples of redox reactions.
@@ -71,8 +76,57 @@ Chapter 30 -- Redox reactions
 4. For the types of reaction below, state whether it is a redox reaction or not (or both in some cases).
     a) Combustion b) Neutralization c) Precipitation d) Displacement e) Decomposition f) Corrosion of metals
 
+5. Define oxidation number.
+
+6. List out:
+  a) common oxidizing agents (10 in total)
+  b) common reducing agents (7 in total)
+  c) their half ionic equations
+  d) observable change in the reaction (if any)
+
+7. State the difference in observation between:
+  a) Concentrated nitric acid added to aqueous and solid Fe2+ compounds
+  b) Concentrated nitric acid added to sulphite ion solution/ sulphite ion solution added to concentrated nitric acid
+
+8. Suggest a chemical test to test for the presence of sulphur dioxide gas. (Ans: test with a filter paper soaked with a suitable oxidizing agent like KMnO4-/H+)
+
+9. Suggest 2 substances with a bleaching property.
+
+10. Suggest the method of distinguishing Br2(aq) from I2(aq).
+
+Answer: Add a non-aqueous solvent like heptane to both of the solutions. The heptane layer floats on the top and extracts most of the bromine or iodine form the bottom aqueous layer.
+        Bromine is orange-red in the heptane layer while iodine is purple.
+
+11. What does a 'disproportionation reaction' mean? (Ans: The reaction in which a species is simultaneously reduced and oxidized in called a ~)
+
+12. Explain why household bleaching solution cannot be mixed with acid. (Ans: it reacts with form toxic chlorine gas)
+
 Common misconceptions/mistakes, tips:
 1. Oxidation numbers can be decimals.
 2. Remember all the rules for counting oxidation numbers.
 3. Oxidation number does not describe compounds, it only describes the charge of elements.
+4. Do more exercises for balancing redox reaction, memorise all the reactant and products of common redox reactions, as well as the E.C.S to predict the feasibility of redox reactions
 
+Chapter 31 -- Redox reactions in chemical cells
+
+1.  What are inert electrodes?
+
+2.  Instead of using two-half cells, can we mix the 2 electrolytes together into one half-cell? Why?
+
+3. What is a fuel cell?
+
+4. In a fuel cell, what are the 2 uses of the porous nickel electrodes?
+
+5. Suggest the a) advantages b) disadvantages c) uses of the hydrogen fuel cell.
+
+6. Why are fresh potatoes used in the set-up of a chemical cell?
+
+Answer: Fresh potato contains more water. More mobile ions are present for the conduction of electricity.
+
+Common misconceptions/mistakes, tips:
+1. Current flows in the opposite direction as electrons.
+2. When determining the feasibilty of a chemical cell: (HW Q3 MC)
+ a) Compare the ECS positions of the solutions in two half-cells .
+  (e.g. if MgSO4 acts as the reducing agent, no cell reaction will occur because its reducing property is very weak)
+ b) Compare the ECS position of the electrode and the solution in a half-cell
+  (e.g. Cu is a stronger reducing agent than FeSO4, so electrons do not flow through the external circuit from the FeSO4 half-cell)
