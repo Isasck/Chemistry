@@ -1,0 +1,198 @@
+Chapter 24 -- Simple molecular substances with non-octet structures and shapes of simple molecules
+
+1. What is the Valence Shell Electron Repulsion Theory (VSEPR)?
+
+Ans: Electron pairs in the outermost shell of the central atom tend to stay as far as possible to minimize electrostatic repulsions.
+
+2. Describe the basic principles to predict the shape of a simple molecule with suitable examples.
+
+Ans: The shape of a simple molecule is governed by the repulsion between the electron pairs in the outermost shell of the central atom.
+     Electron pairs try to get as far apart from one another as possible to minimize electronic repulsion.
+
+3. What is the meaning of 'octet rule'?
+
+Ans: The 'octet rule' states that all atoms tend to achieve the stable electronic arrangement of a noble gas when they form chemical bonds by transferring or donating e-.
+
+4. Why does <compound> (e.g. NH3) adopt a __ (e.g. trigonal pyramidal) shape?/ Predict the shape of <compound> and explain. [COMMON] [2 marks]
+
+Ans: The central atom <atom> in <compound> has <int> bonds pair(s) and <int> lone pair(s) in its outermost shells. [1]
+     In order to minimize the repulsion between electron pairs, <compound> adopt a <shape>. 
+
+5*. Why does XeF3 not exist? Ans: Xe in XeF3 has 11 valence electrons, compounds/ions with odd number of valence electrons are usually unstable, and therefore does not exist.
+
+6. Account for the fact that both CH4 and NH3 have shapes based on the tetrahedron. [2 marks]
+
+Ans: The C atom in CH4 and the N atom in NH3 have 4 electron pairs [1], and according to the VSEPR Theory, the 4 e- pairs will be arranged in a tetrahedral shape. [1]
+
+7. BF3 reacts with NH3 to form an adduct. Account for such formation and draw the three-dimensional shape. [2 marks]
+
+Ans: B in BF3 is electron deficient. [1] N in NH3 donates its lone pair of e- to B to form a dative bond. [1]
+
+8. Explain why a lone pair of e- exerts greater repelling effect than a bond pair of e-.
+
+Ans: Lone pair belongs to the centre atom and bond pair is shared among two atoms. Therefore lone pairs are nearer to the central atom than the bond pairs, which exert a greater electrostatic repulsion.
+
+Common misconceptions/other tips/points to note:
+1. Period 3 elements can form more than 4 single bonds because the 3rd electron shell can hold 18 e- at maximum (they can expand their octets).
+2. Lone pair of e- exerts greater repelling effect than a bond pair of e-
+
+Chapter 25 -- Polarity of bond and molecule
+
+1. Define electronegativity. (Ans: Electronegativity of an atom represents the power of that atom to attract bonding electrons in a covalent bond.)
+
+2a) Define a non-polar covalent bond. (Ans: It is a covalent bond where there is equal sharing of electrons between the two bonded atoms.)
+2b) Define a polar covalent bond. (Ans: It is a covalent bond where there is unequal sharing of electrons between the two bonded atoms.)
+
+3. Which 2 factors does polarity depend on? (Ans: Polarity of individual bonds, shape of the molecule)
+
+4. What is a polar molecule? (Ans: A polar molecule is a molecule in which the polarities of polar bond cannot cancel each other.)
+
+5. Explain why the bond angle between <bond A> in <compound A> (e.g. NH3) is greater than <bond B> in <compound B> (e.g. PH3)? [COMMON]
+
+Ans: -Both compounds have a <shape> (e.g. trigonal pyramidal shape) [1]
+     -*<central atom A> is more electronegative than <central atom B>. The bonded e- are more shifted to the <central atom A> in <compound A> [1]
+     -This results in a stronger repulsion between the bond pairs in <compound A> and <compound B>, and thus a larger bond angle in <compound A> [1]
+
+6. What is bond dipole moment/bond polarity? (Ans: It is a measure of the extent of polarization of the bond. The more polar a bond, the larger its dipole moment.)
+
+7a) Explain why <compound> (e.g. CCl4) is non-polar. (2 marks) [COMMON]
+
+Ans: -CCl4 has a tetrahedral structure, which is highly SYMMETRICAL. [1]
+     -Hence, the bond polarity of four C-Cl bonds cancel out each other. [1]
+
+7b) Explain why <compound> (e.g. H2O) is polar. (1 mark) [COMMON]
+
+Ans: -H2O has a bent structure. THe bond polarity of the two O-H bonds for H2O cannot cancel out each other.
+
+8. Consider a deflection experiment. 
+a) How can the results distinguish polar and non-polar molecules? Explain briefly.
+ Ans: The +ve or -ve end of the polar molecules will be attracted to the charged rod and the jet of liquid is deflected towards the rod.
+
+b) If a -ve charged rod is used instead of a +ve charged rod, will there be any changes to the results?
+ Ans: No. The polar molecules will orientate themselves with the positive ends attracted by -ve charged rod.
+
+Common misconceptions/other tips/points to note:
+1. Polarity increases with electronegativity difference.
+2. Trend of electronegativity across period (no need to explain):
+   No. of protons increases across period, e- added in same shell -->
+   Stronger attraction between nucleus and outermost e- --> e- are more pulled to the nucleus 
+   --> atomic size decreases across a period --> larger attraction between the atom and the bonded e-
+3. Trend of electronegativity down group (no need to explain):
+   Each successive element has one more filled e- shell than the previous element in the same group -->
+   Smaller attraction between nucleus and outermost e- --> e- are more pulled to the nucleus 
+   --> atomic size increases down a group --> smaller attraction between the atom and the bonded e-
+
+Chapter 26 -- Intermolecular forces
+
+1. What are the two main types of intermolecular forces? Define both types of forces.
+
+Ans: -Van der Waals forces are the attractive forces that exist between all molecules.
+     -Hydrogen bonds are the attractive forces between a H atom bonded to a highly electronegative atom AND the lone pair of e- on ANOTHER highly electronegative atom.
+
+2. Explain the formation of Van der Waals forces.
+
+Ans: e- in molecule are in constant motion --> e- distribution may be uneven --> side with more e- form partial -ve charge (vice versa)
+     --> affects e- distribution in other molecules and induces similar separation of charges on them --> attraction
+
+3. What are the factors affecting the strength of Van der Waals forces?
+
+4. Determine which compound has a higher boiling point. (3- 5 marks) [COMMON] 
+a) Different strength of Van der Waals forces -- Ans formula:
+(1) a > b
+(2) Case 1: Different molecular size --> a > b [1]
+    Case 2*: Different molecular shape --> shape of a is more spread-out/linear while b is more compact, allows greater surface contact area between b than a [1]      
+    Case 3**: Polar and non-polar molecules --> due to presence of polar bonds that cannot cancel out each other [1]
+     **: Explain why a is polar, b is non-polar if the question is 2+ marks
+Note: Can only compare molecules with one difference (aka one indepedent variable), mention the difference if necesary
+(e.g. same molecular formula, same functional group, both are polar/non-polar)
+(3) Strength of Van der Waals forces of a > b [1]
+
+b) Different strength of hydrogen bonds
+(1) a > b 
+(2) Case 1: Both are polar molecules, one of them forms H-bonds 
+     --> <element A> is highly electronegative and has a very small size. The <bond> bond is strongly polarized. H-bonds are formed between <compound A> molecules.
+     --> <element B> is less electronegative and larger than <element A> atom. The intermolecular forces in <compound B> are van der Waals forces.
+    Case 2: Both are polar and form H-bond
+     --> Intermolecular attraction in <compound A> and in <compound B> is mainly H-bond
+     i) Different no. of H-bond formed on average
+     --> compare number of H-bond formed on average for each type of molecule
+     ii) Same no. of H-bond formed on average, same bond polarity
+     --> more extensive hydrogen bonds are formed between the molecules = stronger intermolecular forces (even though only 1 hydrogen bond ca be formed on average for both molecules)
+     e.g. CH3CH2NHCH3 vs CH3CH2CH2NH2, both have lone pair of e- from N, but there are more H atoms bonded to the N atom for the latter
+     e.g. H2O2 vs H2O: due to presence of one more O atom in H2O2, it forms more extensive H-bonds between molecules
+     iii) Same no. of H-bond formed on average, different bond polarity
+     --> <element A> is more electronegative than <element B>, <compound A> molecules form stronger H-bonds than <compound B> molecules
+(3) Since intermolecular forces between <compound A> molecules are stronger than <compound B> molecules, b.p.: a > b (state explicitly which type of force for each compound respectively)
+
+5. Explain why water has an abnormally high boiling point compared to other Group VI hydrides. [comparison]
+
+Ans: -O is small in size and highly electronegative, O-H bond is strongly polarized. Hydrogen bonds exist between water molecules.
+     -Other Group VI elements are not small and electronegative enough to form hydrogen bonds. Only van der waals forces exist between the molecules 
+     -Since Van der Waals forces are weaker than hydrogen bonds, water has the highest b.p. among the group VI hydrides
+
+6. Explain why HF has a higher b.p. than NH3? (application of 4b Case 2iii)
+
+Ans: Fluorine has a higher electronegativity. H-F bond has a higher electronegativity difference than N-H bond. H-F bond is more polarized than N-H bond.
+     H-F forms stronger hydrogen bonds between molecules
+
+7. What is viscosity? (Ans: It refers to the resistance of a liquid to flow)
+
+8. What is the relationship between surface tension, viscosity with the strength of intermolecular forces between molecules?
+
+9. What happens to the viscosity of a liquid if the temperature is increased?
+
+Ans: When temperature increases, heat is supplied to break some of the intermolecular forces, which decreases the viscosity.
+
+10. Arrange CH3CH2OH, H2O, and H2SO4 in an order of increasing viscosity.
+
+Ans: CH3CH2OH (1 H-bond) < H2O (2 H-bonds) < H2SO4 (2 H-bonds with more O atoms --> more extensive H-bonds)
+
+11. Why are many sugars soluble in water?
+
+12. Compare the a) surface tension b) viscosity c) solubility of two substances.
+
+Ans: a)/b) <compound a> has higher intermolecular forces between its molecules than <compound b> (state the type of intermolecular forces and compare their strengthse.g. H-bond)
+
+Ans: They have many hydroxyl groups and can form a large amount of intermolecular H-bonds with water molecules.
+
+13. Given the evaporation rate of two liquids, compare their strengths of intermolecular forces.
+
+Ans: The slower the evaporation rate, the stronger the intermolecular forces.
+     (Need to gain energy from surroundings to overcome the intermolecular forces that hold molecules together)
+
+Common misconceptions/other tips/points to note:
+1. Types of dipoles and formation of dipole-dpole interaction is out of scope.
+2. Higher volatility = lower boiling point
+3. H-bond can only occur between a small, very electronegative atom and a H atom bonded to a ~ (Cl is highly electronegative but it is large in size)
+4. Properties directly related to strength of intermolecular forces include b.p./m.p., surface tension, viscosity and solubility
+5. For alkanols/alcohols, those with relatively short non-polar hydrocarbon chains are completely misicible with water 
+   (Solubility decreases as length of non-polar hydrocarbon chain increases)
+
+Chapter 27 -- Structure and properties of ice
+
+1. Explain why the density of ice is less than that of water. (3 marks)
+
+Ans: -The intermolecular forces between ice and water is both H-bond
+     -The directional character of the H-bond makes the water molecules arrange tetrahedrally to form an open cage structure
+     -When ice melts, the structure collapses. Molecules can be packed more closely together in liquid water than ice
+
+2. What is a crystal? 
+
+Ans: It is a solid material in which the constituent atoms are arranged in an orderly repeating pattern extending throughout the material.
+
+3. Why is the O--H distance shorter than O - - - H distance? (Ans: Covalent bond is stronger than H-bond and holds particles more closely together.)
+
+4. What are fullerenes? (Ans: Molecules composed entirely of carbon atoms, in the form of hollow spheres)
+
+5. Compare the hardness of diamond with graphite (Recall chapter 9).
+
+Ans: -Diamond > graphite
+     -In diamond, each C is covalently bodned to four other Cs, forming a 3D giant network. RELATIVE MOTION OF THE ATOMS IS RESTRICTED.
+     -In graphite, only weak van der waals forces exist between adjacent layers, these weak forces make the layers of a graphite crystal easy to slide past each other.
+
+6. Explain why an atmosphere of helium was used to produce buckminsterfullerene. (out sy)
+
+Ans: Helium is inert so that carbon atoms in buckminsterfullerene would not burn in air to form CO2.
+
+Common misconceptions/other tips/points to note:
+1. Pure buckminsterfullerene (C60) does not conduct electricity, but it can pick up metal atoms within the spaces between molecules in the molecular crystal
