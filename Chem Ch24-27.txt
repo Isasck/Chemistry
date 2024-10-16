@@ -124,6 +124,8 @@ b) Different strength of hydrogen bonds
      --> <element A> is more electronegative than <element B>, <compound A> molecules form stronger H-bonds than <compound B> molecules
 (3) Since intermolecular forces between <compound A> molecules are stronger than <compound B> molecules, b.p.: a > b (state explicitly which type of force for each compound respectively)
 
+Note: If both vdw and H-bond exist, say it's PREDOMINANTLY held together by H-bonds
+
 5. Explain why water has an abnormally high boiling point compared to other Group VI hydrides. [comparison]
 
 Ans: -O is small in size and highly electronegative, O-H bond is strongly polarized. Hydrogen bonds exist between water molecules.
@@ -167,6 +169,10 @@ Common misconceptions/other tips/points to note:
 4. Properties directly related to strength of intermolecular forces include b.p./m.p., surface tension, viscosity and solubility
 5. For alkanols/alcohols, those with relatively short non-polar hydrocarbon chains are completely misicible with water 
    (Solubility decreases as length of non-polar hydrocarbon chain increases)
+6. Maximum number of hydrogen bonds does not necessarily equal to the number of hydrogen bonds formed on AVERAGE
+7. Arrangement is different from shape (e.g. NH3: tetrahedral arrangement but trigonal pyramidal shape)
+8. Hydrogen bond exception: C-H bond in trichloromethane can form hydrogen bonds with water molecules because the presence of 3 electronegative Cl atoms 
+                            makes the H carry a high partial positive charge
 
 Chapter 27 -- Structure and properties of ice
 

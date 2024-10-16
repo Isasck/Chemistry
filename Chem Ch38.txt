@@ -1,0 +1,23 @@
+Chapter 38 -- Molar volume
+
+1. Recall the following:
+    a) What is a mole? (the amount of substance containing the same number of formula units as the number of atoms in exactly 12.0g of carbon-12)
+    b) What is the Avogadro's constant? (the number of atoms in exactly 12.0g of carbon-12. Equal to 6.02x10^23 mol^-1)
+    c) What is the molar mass of a substance? (its formula mass expressed in gram unit)
+
+2. What is molar volume? How does it vary?
+
+Ans: Molar volume is the volume occupied by one mole of substance. For solids and liquids, the molar volume varies depending on the size of particles
+     and closeness of packing of particles. Molar volumes of gases at same temp. and pressure and roughly equal.
+
+3. What is the Avogadro's law?
+
+Ans: It states that equal volumes of all gases contain the same number of molecules at the same temperature and pressure.
+
+Common misconceptions/other tips/points to note:
+1. Pay attention to the state symbols and temperature of surroundings of a given reaction. 
+   Volume of liquid (e.g. water) is ignored in calculations involving gas volume.
+2. A (e.g. H2, hydrocarbon A) 'exploded' with B (e.g. O2, hydrocarbon B) means that the reaction is exothermic.
+3. To calculate faster, we can draw a grid showing volume ratio (mole ratio) of different substances and their respective volumes, then do comparisons.
+4. S.t.p is different from r.t.p., read the question carefully. (standard temperature is 0°C but room temperature is 25°C)
+5. For questions involving combustion reactions, find how much excess oxygen is used up (the remaining oxygen should be taken into account in total gas volume).
