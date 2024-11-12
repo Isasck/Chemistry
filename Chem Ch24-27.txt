@@ -11,7 +11,7 @@ Ans: The shape of a simple molecule is governed by the repulsion between the ele
 
 3. What is the meaning of 'octet rule'?
 
-Ans: The 'octet rule' states that all atoms tend to achieve the stable electronic arrangement of a noble gas when they form chemical bonds by transferring or donating e-.
+Ans: The 'octet rule' states that all atoms tend to achieve the stable electronic arrangement of a noble gas when they form chemical bonds by transferring or sharing e-.
 
 4. Why does <compound> (e.g. NH3) adopt a __ (e.g. trigonal pyramidal) shape?/ Predict the shape of <compound> and explain. [COMMON] [2 marks]
 
@@ -151,11 +151,11 @@ Ans: CH3CH2OH (1 H-bond) < H2O (2 H-bonds) < H2SO4 (2 H-bonds with more O atoms 
 
 11. Why are many sugars soluble in water?
 
+Ans: They have many hydroxyl groups and can form a large amount of intermolecular H-bonds with water molecules.
+
 12. Compare the a) surface tension b) viscosity c) solubility of two substances.
 
 Ans: a)/b) <compound a> has higher intermolecular forces between its molecules than <compound b> (state the type of intermolecular forces and compare their strengthse.g. H-bond)
-
-Ans: They have many hydroxyl groups and can form a large amount of intermolecular H-bonds with water molecules.
 
 13. Given the evaporation rate of two liquids, compare their strengths of intermolecular forces.
 
@@ -173,6 +173,8 @@ Common misconceptions/other tips/points to note:
 7. Arrangement is different from shape (e.g. NH3: tetrahedral arrangement but trigonal pyramidal shape)
 8. Hydrogen bond exception: C-H bond in trichloromethane can form hydrogen bonds with water molecules because the presence of 3 electronegative Cl atoms 
                             makes the H carry a high partial positive charge
+9. For hydrocarbon compounds with hydroxl group(s), the molecule is non-polar if there are more than 4 carbon atoms in the carbon chain.
+10. For the explanation of soluble hydroxyl compounds, the small number of carbon atoms must be mentioned in addition to the formation of H-bonds.
 
 Chapter 27 -- Structure and properties of ice
 
@@ -199,6 +201,15 @@ Ans: -Diamond > graphite
 6. Explain why an atmosphere of helium was used to produce buckminsterfullerene. (out sy)
 
 Ans: Helium is inert so that carbon atoms in buckminsterfullerene would not burn in air to form CO2.
+
+7**. The H--O--H bond angle in ice is about 109 degrees but about 105 degrees in gaseous H2O. Explain why there is such difference. [HARD]
+
+Ans: In each water molecule in H2O(g), there are two lone pairs of electrons and two bond pairs of electrons around the central oxygen atom. The
+     four electron pairs take up a tetrahedral arrangement such that they experience the least repulsion. [1]
+     The two lone pairs exert a greater repulsive force than the two bond pairs. As a result, the H-O-H bond angle in H2O(g) is squeezed to a
+     value of about 105. [1]
+     In the structure of ice, the tetrahedral arrangement of water molecules allows the formation of maximum number of hydrogen bonds. Hence,
+     the H-O-H bond angle in ice is about 109 degrees.
 
 Common misconceptions/other tips/points to note:
 1. Pure buckminsterfullerene (C60) does not conduct electricity, but it can pick up metal atoms within the spaces between molecules in the molecular crystal

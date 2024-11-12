@@ -1,0 +1,88 @@
+Chapter 33 -- Energy changes in chemical reactions
+
+1. What is the law of conservation of energy?
+
+2. What is the difference between the change in internal energy and enthalpy change?
+
+3. How can we calculate the enthalpy change of a chemical reaction?
+
+4. What is an exothermic and endothermic reaction? 
+
+Ans: Exothermic reaction is one that gives out heat, while endothermic reaction is one that takes in heat (to the surroundings).
+
+5. Is the breaking of bonds/forming of bonds a exothermic or endothermic reaction? (Answer: Bond-breaking: endothermic, Bond-forming: exothermic)
+
+6. Calculate the enthalpy change for the following reaction. (Total bond enthalpy of products - total bond enthalpy of reactants)
+
+7. Explain why exothermic reaction has negative enthalpy change. 
+
+Ans: Since the total enthalpy of products is less than the total enthalpy of reactants, the enthalpy of the system decreases. 
+     (E taken in by bond breaking < E given out by bond forming)
+
+Common misconceptions/other tips/points to note:
+1. System: refers to the reactants and products of the reaction; Surroundings: refers to everything outside the system
+
+Chapter 34 -- Standard enthalpy changes of reactions
+
+1. What are the standard conditions for measuring enthalpy changes? (Hint: pressure, temperature, concentration)
+
+2a) Define standard enthalpy change of reaction.    
+    (Ans: The enthalpy change when the no. of moles of reactants represented by the thermochemical equation react completely under standard conditions.)
+2b) Define standard enthalpy change of combustion.
+    (Ans: The enthalpy change when one mole of the required substance is completely burnt in oxygen under standard conditions.)
+2c) Define standard enthalpy change of neutralization.
+    (Ans: The enthalpy change when one mole of water is formed from neutralization between an acid and an alkali under standard conditions.)
+2d) Define standard enthalpy change of formation.
+    (Ans: The enthalpy change when one mole of the required substance is formed from its constituent elements in their standard states under standard conditions.)
+
+3. Are the following reactions exothermic or endothermic? 
+   a) Combustion b) Neutralization c) Formation d) Precipitation e) Displacement f) Freezing/condensation g) Thermal decomposition h) Ionization of weak acid/alkali i) Melting/vaporization
+
+4. Why will there be less energy released if a weak acid and a weak alkali is used?
+
+Ans: Some energy has to be supplied for the ionization of weak acid or alkali. (state how much heat energy in kJ mol^-1 is absorbed when necessary)
+
+5. Why are expanded polystyrene cups often used to carry out calorimetric experiments? 
+
+Ans: They are good insulators of heat and helps minimize heat loss from the reaction mixture to the surroundings.
+
+6a) Name 5 common sources of errors (and improvements) in calorimetric experiments.
+
+Ans: -Heat loss to surroundings
+     -Heat capacities of polystyrene cup/thermometer were not taken into account
+     -Specific heat capacity of reaction mixture != that of water
+     -Density of reaction mixture != that of water
+     -Exp. not carried out under standard conditions
+
+6b) Name 4 common assumptions made in calorimetric experiments.
+
+Ans: -All solutions have same density as water
+     -All solutions have same specific heat capacity as water
+     -No heat loss to surroundings (especially for slow reactions, assume it is very fast)
+     -Heat capacity of the apparatus is negligibly small
+
+7. Why can't the standard enthalpy change of formation be determined?
+
+Ans: -Some formation reactions are highly exothermic and cannot be safely carried out
+     -The constituent elements are in different physical states and cannot be mixed well in a calorimeter
+     -Side reactions may lead to formation of side products
+
+8a) What does ΔHf measure in terms of energetic stability? 
+    
+Ans: ΔHf of a compound is a measure of energetic stability with respect to the elements from which is formed
+
+8b) In terms of energetic stability, what does the negative value of ΔHf of water imply? (Ans: Water is energetically more stable than its constituent elements under standard conditions.)
+
+9. Draw a setup for a calorimetric experiment. (thermometer, lid, polystyrene cups/vaccum flask, stirrer)
+
+10. How can we find the maximum temperature change for relatively slow reactions? (Ans: By extrapolation from a temperature/time graph)
+
+Common misconceptions/other tips/points to note:
+1. Sign of ΔH is reversed when the chemical equation is reversed.
+2. The strength of an acid can be determined be the ΔHn (the smaller the magnitude, the weaker the acid/alkali)
+3. The standard enthalpy changes of formation of all elements in their standard states are zero.
+4. Enthalpy level diagram: y-axis = enthalpy, x-axis = reaction coordinate, 2 horizontal lines representing total enthalpy of reactants/products\
+5. Bomb calorimeter: prevents formation of soot particles or CO during carbon combustion
+6. For elements with allotropes, the most energetically stable allotrope (e.g. graphite) is used to define ΔHf
+
+Chapter 35 -- Hess's law

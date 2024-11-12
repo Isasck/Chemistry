@@ -109,9 +109,9 @@ Common misconceptions/mistakes, tips:
 
 Chapter 31 -- Redox reactions in chemical cells
 
-1.  What are inert electrodes?
+1. What are inert electrodes?
 
-2.  Instead of using two-half cells, can we mix the 2 electrolytes together into one half-cell? Why?
+2. Instead of using two-half cells, can we mix the 2 electrolytes together into one half-cell? Why?
 
 3. What is a fuel cell?
 
@@ -130,3 +130,7 @@ Common misconceptions/mistakes, tips:
   (e.g. if MgSO4 acts as the reducing agent, no cell reaction will occur because its reducing property is very weak)
  b) Compare the ECS position of the electrode and the solution in a half-cell
   (e.g. Cu is a stronger reducing agent than FeSO4, so electrons do not flow through the external circuit from the FeSO4 half-cell)
+
+Chatper 32 -- Electrolysis 
+
+1. 
