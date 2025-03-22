@@ -48,7 +48,7 @@ Ans: They are good insulators of heat and helps minimize heat loss from the reac
 
 6a) Name 5 common sources of errors (and improvements) in calorimetric experiments.
 
-Ans: -Heat loss to surroundings
+Ans: -Heat loss to surroundings (or heat gain if the reaction is endothermic)
      -Heat capacities of polystyrene cup/thermometer were not taken into account
      -Specific heat capacity of reaction mixture != that of water
      -Density of reaction mixture != that of water
@@ -77,12 +77,58 @@ Ans: ΔHf of a compound is a measure of energetic stability with respect to the 
 
 10. How can we find the maximum temperature change for relatively slow reactions? (Ans: By extrapolation from a temperature/time graph)
 
+11. Explain the enthalpy change obtained through mean bond enthalpies and enthalpy changes of formation are different.
+
+Ans: The bond enthalpy values used for calculation are different from real values./ Bond enthalpies depend on bonding environment.
+
+12. State why the standard enthalpy change of formation of lithium is quoted as zero.
+
+Ans: By definition, the ΔHf of an element (without allotropes) under standard conditions is defined as zero. (Li(s) --> Li(s) ΔHf[Li(s)] = 0)
+
+13. Explain the enthalpy change of the combustion of ethane in terms of bond formation and bond-breaking.
+
+Ans: -During a chemical reaction, energy has to be supplied to break the chemical bonds in the reactants. Breaking of bonds is an endothermic process
+     -New bonds are formed to give the products in a chemical reaction. Formation of bonds is an exothermic process
+     -The combustion of ethane is exothermic. It means that the bond-forming process gives out more energy than that is required in the bond-breaking process
+
+14. Explain why carbon does not convert from the less stable allotrope to the more stable one at room temperature.
+
+Ans: Conversion from diamond to graphite involve rearrangement of atoms in a giant covalent network would require a high activation energy.
+     Thus, conversion does not occur at room temperature.
+
+15. Comment on the stability of an compound according to its standard enthalpy change of formation under standard conditions.
+
+Example Ans: Since ΔHf[element] > 0 (endothermic), <compound> is energetically unstable with respect to <constituent elements in standard states e.g. O2 (g)>.
+
+16. Suggest one advantage of using alternative fuel with ethanol over using gasoline.
+
+Ans: -Ethanol is an oxygen-containing compound. It is easier for the alternative fuel to achieve complete combustion
+     -Ethanol is a renewable energy source (can be obtained from agricultural products)
+     -Cost of production of ethanol is low in agriculture countries
+
 Common misconceptions/other tips/points to note:
 1. Sign of ΔH is reversed when the chemical equation is reversed.
 2. The strength of an acid can be determined be the ΔHn (the smaller the magnitude, the weaker the acid/alkali)
 3. The standard enthalpy changes of formation of all elements in their standard states are zero.
-4. Enthalpy level diagram: y-axis = enthalpy, x-axis = reaction coordinate, 2 horizontal lines representing total enthalpy of reactants/products\
+4. Enthalpy level diagram: y-axis = enthalpy, x-axis = reaction coordinate, 2 horizontal lines representing total enthalpy of reactants/products
 5. Bomb calorimeter: prevents formation of soot particles or CO during carbon combustion
 6. For elements with allotropes, the most energetically stable allotrope (e.g. graphite) is used to define ΔHf
+7. For questions comparing enthalpy changes of combustion values, a more negative value means the energy content of the fuel used is higher.
 
 Chapter 35 -- Hess's law
+
+1. What does the Hess's Law state?
+
+Ans: The overall enthalpy change of a chemical reaction is the same, regardless of the route by which the reaction takes place, 
+     provided that the initial and final states are the same.
+
+(Simpler definition from 2017 DSE: the total enthalpy change of a chemical reaction is independent of the route by which the reaction takes place.)
+
+2. What is the importance/significance of the law?
+
+Ans: It can be used to determine the enthalpy changes of reactions that cannot be performed in the lab/proceed very slowly/involve formation of side products
+
+3. Calculate the standard enthalpy changes by using a) ΔHf b) ΔHc c) enthalpy change cycle
+
+Common misconceptions/other tips/points to note:
+1. Do more calculation questions for this chapter

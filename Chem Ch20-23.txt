@@ -1,0 +1,236 @@
+Chapter 20 -- Fossil Fuels
+
+1a) What are fossil fuels? What do they have in common?
+ Ans: Fuels formed from the dead remains of living organisms that lived millions of years ago. 
+      They contain hydrocarbons.
+
+1b) Describe the process of formation of fossil fuels.
+ Ans: Under high temperature and pressure and the action of bacteria, the remains change into <fuel>.
+
+1c) Name (i) three common fossil fuels. (ii) how they are extracted (iii) composition of mixture (if applicable)
+
+1d) Arrange the following in asecnding boiling point and name their appliactions: refinery oil, petrol, naphtha, kerosene, diesel oil, fuel oil, wax, bitumen
+
+Ans: Fuels for transporation, heating, electricity/ raw materials in the petrochemical industry
+
+2. In oil refining, name the separation method of hydrocarbons. Why can this method be used?
+
+Ans: Fractional distillation. Different hydrocarbons have different boiling points.
+
+3a) Explain the procedures for the separation of crude oil in a laboratory.
+ Ans: -Heat the petroleum gently. (lightest fraction comes out first)
+      -Collect the fraction in the test tube and replace it with a new test tube when no more liquid comes out.
+      -Heat the petroleum at higher and higher temperatures. (heavier fractions come out one by one)
+
+3b) Draw the setup (hint: rocksil soaked with petroleum)
+3c) Consider a fractional distillation setup. What is the use of (i) glass beads in the fractionating column (ii) anti-bumping granules?
+    (iii) Why should cooling water enter at the lower end of the condenser? (iv) Why should the system be opened? [RECAP]
+
+4. Describe the following properties of hydrocarbons from lower to higher fractions: 
+ (i) boiling point (ii) colour (iii) viscosity (iv) speed of evaporation (v) ease of burning (vi) flame
+
+5. Explain why the global demand for petrol is greater than that of kerosene.
+
+Ans: Petrol is mainly used for motor cars. The rapid growth in the number of motor cars makes the demand for petrol much greater than that of kerosene.
+
+6*. Explain why it is hazardous to add cold water to a tray of containing molten wax at a high temperature.
+
+Ans: The high temperature of molten wax causes water to evaporate rapidly [1]. The steam produced causes the molten wax to splash out, which may cause burning of skin [1].
+
+7. Compare the (i) flame colour (ii) flame sootiness in complete and incomplete combustion.
+
+8a) Name the common air pollutants/environmental problems as a result of burning fossil fuels. [5+1+1+1]
+8b) Name their hazards and impacts toward humans and the environment. [5+1+1+1]
+8c) Suggest ways to minimize pollutants. [5+1+1+1] (e.g. burning fuel at higher temperatures with excess air)
+
+Ans: Catalytic converter (Pt catalyst), electrostatic precipitator, scrubbers (remove acidic SO2), use fuel with low S content etc.
+
+9. Suggest some advantages and disadvantages of using fossil fuels as energy sources.
+
+Ans: -readily available in many places of the world
+     -cheaper than most alternative energy sources
+     -non-renewable, reserves are limited
+     -burning ~ leads to air pollution (e.g. NOx, SO2, CO, C)
+
+     Gaseous fuels: easily transported by pipes + cheap, contains highly toxic CO(g)
+
+10. Explain why LPG is a cleaner fuel than diesel.
+
+Ans: -contains less no. of C atoms per molecule -> more complete combustion -> less air pollutant -> cleaner
+
+11. What is the composition of a) LPG b) Town gas.
+
+12. Why does the cost of town gas in HK when the cost of crude oil rises? 
+
+Ans: Town gas is produced from naphtha, which is a fraction of crude oil.
+
+13. State the 2 advantages of using naphtha over coal to make town gas.
+
+Ans: -Naptha is a liquid at room temp., can be easily stored in tanks and transported in pipes; coal is a soild, difficult to transport by pipes
+     -Less air pollutants are produced when naphtha is used to make town gas compared to coal
+
+14. State the safety precautions in using household gaseous fuels, and what should be done if there is suspected smell of gas leakage.
+
+15. What is a pollutant? (Ans: A harmful toxic substance present in our environment at a level that is high enough to cause damage to our health and properties)
+
+16. How can we test for a) CO (g) b) acidic gases c) particulates present in car exhaust?
+
+Ans: a) Bubble the car exhaust into citrated blood. The colour of blood changes from dark red to cherry red
+     b) Bubble the car exhaust into universal indicator. It turns red. Carbonic acid, nitric acid and nitrous acid are formed.
+     c) Pass the car exhaust over a piece of wet filter paper. Dirty dark spots are observed. C(s) particles are stuck on it.
+
+17. Write the chemical equations for the formation of acid rain. (SO2 -> H2SO3, H2SO3 -> H2SO4, NO2 -> HNO2 + HNO3, HNO2, HNO3)
+
+18. Suggest 1 reason why there was a large incrase in conc. of methane in the atmosphere. (Ans: Increase in no. of rice paddies/cattle. Remains/manure decay to give methane) 
+
+19. Suggest some alternatives energy sources that are renewable.
+
+Common misconceptions/other tips/points to note:
+1. Fossil fuels can contain elements other than C or H (e.g. sulphur). SO2 is released when coal burns.
+2. Cars with catalytic convert must use unleaded petrol. Otherwise, the lead compounds will 'poison' the catalyst.
+3. Town gas in HK contains an odourant (S-compounds) to give a characteristic smell to warn consumers of leakage of town gas.
+4. Biodiesel, containing oxygen atoms and made from fat and oil, can be used to cut down pollutant from cars. 
+5. When suggesting ways to alleviate environmental problems, pay attention to what pollutants (e.g. NOx) are involved.
+
+Chapter 21 -- Homologous series, structual formulae and the naming of carbon compounds
+
+1. What is organic chemistry?
+
+2. Explain why carbon is an unique element/can form so many compounds. (Note: silicon cannot form rings are si bonds are weaker than c bonds)
+
+3. Draw/write the (i) structual formula (ii) condensed structual formula (iii) skeletal formula of the following compounds.
+
+4. What is a functional group? (Ans: it is an atom or group of atoms responsible for most of the chemical properties of a compound)
+
+5. What is a homologous series? What characteristics do they have? 
+
+Ans: -a family of organic compounds
+     -have the same general formula
+     -each member is different from the next member by a -CH2- unit (RMM differ by 14.0)
+     -show a gradual change in physical properties
+     -similar chemical properties
+
+6. Using the IUPAC system, name (i) alkanes (ii) alkenes (iii) alkanols (iv) alkanoic acids.
+
+7. Are these compounds (i) saturated/unsaturated (ii) aliphatic/aromatic
+
+Common misconceptions/other tips/points to note:
+1. Organic compounds with only single bonds are said to be saturated. Otherwise (multiple bonds), they are unsaturated.
+2. Aliphatic H/Cs: straight/branched chains, non-aromatic rings, Aromatic H/Cs: /w benzene ring(s) (carciogenic)
+3. Do more practice for the naming of organic compounds
+
+Chapter 22 -- Alkanes and alkenes
+
+1. Summarise the physical properties of alkanes and alkenes.
+
+2a) What products are formed in the combustion of alkanes? Compare the sootiness of the flame.
+2b) What is a substitution reaction? (Ans: a chemical change in which an atom/group of atoms of an organic molecule is replaced by another atom/group of atoms)
+2c) Why is a mixture of products usually obtained in substitution reactions? (Ans: It is hard to stop the reaction at a particular stage)
+2d) Name the three steps of a subtitution reaction and draw all the chemical equations. [3+6]
+
+Note: presence of light/heat is required (to break bond)
+
+3a) What is cracking? (the process of breaking down large molecules into smaller ones)
+3b) What is its industrial importance? (Ans: to produce extra petrol, to produce alkenes which are the RMs of synthetic products)
+3c) Describe the cracking process. What products are obtained?
+3d) Draw a cracking setup for a laboratory experiment. (hint: rocksil soaked with liquid paraffin, broken pieces of unglazed porcelain, water trough)
+
+4a) What is an addition reaction? (Ans: a reaction in which 2 or more molecules react to give a single molecule)
+4b) Suggest 2 examples of addition reactions with alkenes. Write down their chemical equations and observation.
+ Ans: reaction with halogens, reaction with cold KMnO4; solution decolurises rapidly
+
+Note: KMnO4 reaction is a redox reaction; MnO4- is reduced to very pale pink Mn2+, alkene is oxidized to a diol
+Note: presence of sunlight/UV light/heat is NOT required
+
+5. Compare the characteristics of the flame between combusting alkanes and alkenes.
+
+6. Draw a setup to identify the products from the complete combustion of an alkane. 
+
+7a) Explain why combustion of petrol can produce power. [2]
+ Ans: -the reaction is highly exothermic/produces a large amount of heat
+      -there is an expansion of gases, which can produce power
+
+7b) What would happen if air is insufficient for the combustion of petrol in car engine?
+ Ans: loss of power, carbon soot formed, CO produced, incomplete combustion of fuels
+
+8. Which compounds, pentane or octane, will burn with a more sooty flame? Why? [COMMON]
+
+Ans: -Octane, because octane has a higher percentage of carbon by mass [1]
+     -Octane is more difficult to burn completely (chance to undergo incomplete combustion to give C is higher) [1]
+
+Common misconceptions/other tips/points to note:
+1. Sootiness of flame depends on the percentage molecular mass of carbon in the compound.
+
+Chapter 23 -- Addition Polymers
+
+1. Why properties do plastics have that make them so useful? (e.g. cheap, strong but light, easily moulded, easily dyed, good insulators, not easily corroded, low density)
+
+2. Define the following terms:
+ a) Monomer (A small molecule used to form a polymer)
+ b) Polymerization (the process of repeatedly joining many monomers together to form the polymer)
+ c) Polymer chain (a very large molecule formed by many smal molecules being joined together repeatedly)
+ d) Polymer (a mixture of polymer chains with different R.M.M.)
+ e) Repeating unit (the smallest recurring unit in a polymer chain) 
+ f) Thermoplastics (plastics which can softened or melted upon heating and hardened on cooling repeatedly)
+
+3. Explain the thermal properties of thermoplastics.
+
+Ans: -Only weak intermolecular forces exists between polymer chains
+     -Upon heating, the plastic absorbs energy and some of the weak intermolcular forces are broken
+     -Polymer chains can slide over one another easily -> can be softened/melted upon heating
+     -Upon cooling, the polymer chains come closer and attract one another -> hardened
+
+4. What is addition polymerization? (Ans: Monomer molecules are joined together to form polymer chains WIHTOUT LOSING ANY ATOM.)
+
+5. Explain why polypropene burns with a more sooty flame. (More carbon peron molecule)
+
+6. Suggest one rason why PVC (polyvinyl chloride) is not used for making food containers. (Ans: Its monomer and plasticizer are toxic)
+
+7. State 2 properties that enable Teflon (polytetrafluoroethene) to be used as the non=stick coating for frying pans. (Ans: high m.p., non-toxic)
+
+8. State the 6 common types of addition polymers and a few of their properties and applications. (soft/hard, price, toxicity, flammability, m.p.)
+
+Ans: PE: plastic toys; PP: plastic bags; PVC: bottles; PS: feeding bottles for babies; expanded PS: disposable cups + food boxes
+     Perspex: aircraft windows, advertising display (optical fibres); Teflon: non-stick coating for frying pans
+
+9*. Suggest 1 reason why glass bottles are preferred to plastic bottles for the storage of champagne.
+
+Ans: Champagne contains a pressurized carbon dioxide solution. Glass cacn withstand the pressure.
+     The ethanol solution (champagne) can dissolve unpolymerized monomers in plastic.
+
+10a) How can polystyrene be prepared in the laboratory?
+
+Ans: -Heat a mixture of styrene and kerosene under reflux using a sand bath in a fume cupboard
+     -The reaction mixture is cooled and poured into methanol (decrease solubility of PS in kerosene), a white and waxy solid will float on methanol.
+
+10b) Suggest 3 safety precautions regarding the above experiment.
+
+Ans: -Oil bath: kerosene is flammable; Fume cupboard: styrene vapour is irritant; anti-bumping granules: smooth boiling
+
+11. Explain whether PVC is suitable for making electric sockets or not. (Ans: No. PVC is a thermoplastics and melts upon heating.)
+
+12. Explain why polyethene is NOT suitable for making feeding bottles for babies.
+
+Ans: Feeding bottles are usually sterilized by heating in boiling water. PE has a low m.p. and will deform at temp. of boiling water.
+
+13. Suggest some treatments of plastic wastes and compare their advantages and disadvantages.
+
+Ans: -Landfilling: fast and efficient + not much air pollution caused; needs a large amount of land
+     -Incineration: reduce land wastage; produces toxic air pollutants
+     -Direct recycling: save materials/petroleum; high operation cost
+     -Recycling of energy: E obtained can be used as fuel; produces toxic air pollutants
+     -Recycling of chemicals: save materials/petroleum; high operation cost
+
+14. Suggest 1 reason why PS should be expanded before it is used to make disposable lunch boxes.
+
+Ans: To improve the heat insultating properties of the material.
+
+15. With reference to given structure, explain whether nylon is a thermoplastic or a thermosetting plastic.
+
+Ans: Thermoplastic, because there are no cross links between polymer chains.
+
+Common misconceptions/other tips/points to note:
+1. A polymer is not a single compound, a repeating unit is not a molecule. 
+2. Addition polymer and its monomer must have the same composition by mass.
+3. For addition polymers, all atoms in the backbone must be carbon. (if it contains other elements like O/N, it is a condensation polymer)
+4. When PVC is heated, hydrogen chloride and chlorine is produced (burns with acidic smell).
