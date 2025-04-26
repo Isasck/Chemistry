@@ -1,0 +1,218 @@
+Chapter 42 - Introduction to selected homologous series
+
+1. Explain why there a lot of organic compounds with reference to the properties of carbon. (RECAP)
+
+Ans: -C atom can form strong covalent with itself and other atoms
+     -C atom can form up to 4 bonds with other C atoms to give chains, branched chains and rings
+     -C atom can form multiple bonds (double bonds and triple bonds) with C, N and O atoms
+    
+2. Explain the chracteristics of members in a homologous series (RECAP).
+
+3. What is a functional group? (RECAP) (Ans: An atom or group of atoms that govern the major chemical properties of the organic compound)
+
+4. Why do the difference in b.p. of alkanes and their corresponding alcohols become smaller as the no. of C atoms in molecules increase?
+
+Ans: -An alcohol molecule is made of 2 parts - the non-polar hydrocarbon chain and the polar -OH group
+     -As the No. of C atoms in an alcohols molecule increases, the influence of the -OH group become less significant compared with that of increasingly large H/C chain
+     (Properties of higher alcohols tend more and more towards those of the corresponding non-polar alkanes))
+
+5. Explain whether amines with small alkyls groups are soluble in water. [RECAP]
+
+Ans: -An amine group has H-atom(s) bonded to a highly electronegative N atom and N-H bond is strongly polarized
+     -~ can form a large no. of H-bonds with polar water molecules
+
+6. In an exp under a specific condition, the measured R.M.M. of ethanoic acid is 85.7. Comment on the value obtained.
+
+Ans: -Under the condition of the exp., some ethanoic acid exist as dimers owning to H-bond formation
+     -Measured R.M.M. of ethanoic acid lies somewhere between 60 to 120
+
+7. Explain why the density of propan-1-ol is greater than that of propan-2-ol.
+
+Ans: C is more spherical than D. Strength of v.d.w. of propan-1-ol is strong than propan-2-ol as it has a greater contact surface area. The stronger intermolecular forces in ~ leads to higher density.
+
+8. Suggest why isoamyl acetate is soluble in most non-polar organi compounds.
+
+Ans: It is a relatively non-polar compound. The intermolecular forces between its molecules and the molecules of most non-polar organic solvent are of comparable strength.
+
+Common misconceptions/tips/points to note:
+1. When describing contrasting properties between 2 different functional groups, always state that it is the molecules with similar R.M.M. that is being compared.
+
+Chapter 43 -- Isomerism
+
+1a) What are isomers? (Ans: Compounds with the same molecular formula but different arrangement of atoms.)
+1b) What are chain isomers? (Ans: Isomers that have the same functional groups but different carbon skeleton.)
+1c) What are position isomers? (Ans: Isomers that have the same functional group and carbon skeleton but different in the position of the functional group.)
+1d) What are functional group isomers? (Ans: Isomers with different functional groups.)
+1e) What are stereoisomers? (Ans: Isomers in which atoms are joined in the same order but have a different spatial arrangement.)
+1f) What are cis-trans isomers? (Ans: Stereoisomers for which spatial arrangement is different because free rotation is restricted by the presence of a C-C double bond.)
+1g) What is a chiral molecule? (Ans: A molecule which is not superimposable on its mirror image.)
+1h) What are enantiomers? (Ans: A chiral molecule and its mirror image are called a pair of enantiomers.)
+1i) What is a plane of symmetry? (Ans: An imaginary plane that bisects a molecule into two halves which are mirror reflections of each other.)
+1j) What is a chiral carbon? (Ans: The carbon attached to four different atoms or groups of atoms.)
+1k) What is optical activity? (Ans: The ability of a molecule to rotate the plane of plane-polarized light)
+
+2a) How can we measure the optical activity of enantiomers? (Ans*: By using a polarimeter. 2 enantiomers cause exactly the same extent of rotation of the plane of plane-polarized light, but in OPPOSITE directions.)
+2b) State a physical property which is different for each enantiomer of the same pair. (Ans: They rotate the plane of plane-polarized light to opposite directions.) 
+
+*: (+)-x rotates the plane of polarization of ~ clockwise, while (-) rorates ~ anticlock to the same extent
+
+3a) Explain why hex-3-ene can exist as separate cis and trans isomers.
+Ans: -There is restricted rotation about a C=C bond
+     -2 different groups are attached to each C of the double bond
+
+3b) Account for the occurrence of cis-trans isomers.
+Ans: Each doubly-bonded C atom in the compound is attached to different atoms.
+
+4. The melting point of cis-x is lower than that of trans-x. Explain the difference in m.p. of the two isomers.
+
+Ans: -In addition to intermolecular forces, the m.p. of a copmound depends on the packing efficiency of molecules in solid state
+     -Cis-x is less symmetrical than trans-x so it has lower packing efficiency and thus has a lower m.p.
+
+5. (Element Ch11 q18b) Both dimethyl fumarate and A can be hydrolysed to their corresponding dicarboxylic acids, B and C. Explain why the m.p. of C is lower than B.
+
+Ans: -C forms intramolecular H-bonds, due to close proximity of the 2 -COOH groups <intramolecular H-bond diagram>
+     -B does not form any intramolecular H-bonds and can form intermolcular H-bonds per molecule, so C has lower m.p.
+
+6a) (Element Ch11 q24c) Describe two possible disadvantages of producing a drug containing a mixture of several stereoisomers.
+Ans: Higher doses are required. Other stereoisomers may have harmful side effects.
+
+6b) Element Ch11 q36c) It is known that among the 2 stereoisomers, only B has stimulant activity whie the other does not. Why?
+Ans: The target site of the stimulant is chiral. The reaction between B and its target site is stereo-specific
+
+6c) (Element Ch11 q35b) Will the stereoisomers have same chemical properties? Explain.
+Ans: Yes, unless the reaction counterpart is optically active.
+
+7. What structural feature causes the compound to have enantiomers? (Ans: The molecule coantains one C atom bonded to 4 differen groups)
+
+8. Explain why there are no cis-trans isomers of a haloalkane.
+
+Ans: -It only contains single bonds. There is free rotation about single bonds, hence no cis-trans isomers exist
+
+9. Given a reaction between HBr and 3-methylhex-3-ene and HBr. Someone said that the product obtained is optically active? Is he correct?
+
+Ans: No. A racemate is formed.
+
+Common misconceptions/other tips/points to note:
+1. If either one of the doubly-bonded carbon atom is attached to two identical atoms or groups of atoms, there will be no cis-trans isomers.
+2. A mixture of equalmolar of 2 enantiomers is called a racemic mixture/racemate. Such a mixture is optically inactive (optical rotations of 2 enantiomers cancel each other).
+3. Cis-trans isomers: bond-polarities of ~ can/cannot cancel out each other -> polar/non-polar -> v.d.w.
+
+Chapter 44 -- Typical reactions of various functional groups
+1. State which of the 2 alkenes is the major dehydration product. Explain your answer.
+
+Ans: The C=C bond in ~ is more substituted, making it more stable than ~, so it is the major product.
+
+2. Explain why preparaing CH3CH2I by reacting CH3CH2OH with a mixture of NaI(s) and conc. H2SO4 is not appropriate.
+
+Ans: -The HI (g) formed will be oxidized by conc. H2SO4 to iodine (H2SO4 + NaI -> NaHSO4 + HI; HI + H2SO4 -> 4H2O + H2S + 4I2)
+     -Appropriate method: reflux a mixture of sodium iodide and conc. phosphoric acid/ red P and iodine
+
+3. Suggest why high temperature can facilitate the formation of amide in the conversion of carboxylic acid to amide.
+
+Ans: It removes water which converts the salt to amide.
+
+4. Explain why the reaction is carried out under reflux. (Ans: To prevent loss of reactants and products by evaporation)
+
+5a) A student attempted to prepare butan-1-ol using 1-fluorobutane instead of 1-bromobutane as the reactant. Suggest why the reaction would proceed at a slower rate.
+Ans: 1-fluorobutane reacts slower because C-F bond is stronger than C-Br bond as a result of smaller atomic size of F.
+
+5b) The rates of hydrolysis of chloroethane, bromoethane and iodoethane are different. Describe how you would monitor the reaction rates and explain why they react at different rates.
+Ans: -Put 3 sols. (each with 2cm3 of ethanol, 1cm3 of AgNO3(aq)) into diff test tubes in water bath at 60°C. Add 5 drops of ~ separately to the test tubes
+     -A general equation for the hydrolysis is CH3CH2-X + H2O -> CH3CH2-OH + H+ - X-
+     -AgNO3 (aq) is used to follow the rate of hydrolysis of the haloalkanes. Halide ions produced from the hydrolysis would form a precipitate with silver ions (Ag+(aq) + X-(aq) -> AgX(s))
+     -Rate of hydrolysis is related to how easily the C-X bond breaks
+     -Strength of bonds: C-I < C-Br < C-Cl. C-I bonds breaks more readily, so its rate of hydrolysis is highest. The precipitate appears first in the test tube containing it.
+     -C-Cl is most difficult to break, so the rate of hydrolysis of chloroethane is the lowest
+
+6a)  In the distilling ethanol with acidified potassium dichromate sol. in a simple distillation setup, why is the organic product more likely to be ethanal.
+Ans: Ethanal is more volatile than ethanol, so ethanal formed is distilled off. Partial oxidation of ethanol occurs.
+
+6b) Why is product more likely to be ethanoic acid using a reflux setup, referring to q6a?
+Ans: Since the sol. mixture is heated under reflux, volatile compounds cannot escape. Ethanol is completely oxidized into ethanoic acid.
+
+7. Why is butan-2-ol classified as a secondary alcohol? (Ans: There are 2 alkyl groups attached to the atom bearing the -OH group.)
+
+8. List the common errors in a simple distillation setup.
+
+Ans: -Water should go in from the bottom instead of the top outlet of the condenser
+     -Missing jacket on the condenser
+     -Missing stopper at the top of the flask
+
+9. What type of reaction is conversion of ethanol to ethanal? Justify your answer by considering their formulae.
+
+Ans: Oxidation. H atoms are lost when ethanol is converted to ethanal.
+
+10. Draw the a) reflux setup b) simple distillation setup c) dehydration of alcohol with Al2O3 (s)
+
+11. Explain why ethyl ethanoate can dissolve iodine but canont dissolve sodium iodide.
+
+Ans: -Iodine: simple molecular structure, molecular held together by weak v.d.w.
+     -NaI: giant ionic structure, ions held together by strong ionic bonds
+     -Strength of inter-particle attraction in ethyl ethanoate is comparable to that of iodine
+
+12. Suggest amount of acid required for the hydrolysis of 1 mol of an ester. Explain your answer.
+
+Ans: A very small amount of H+(aq). H+ acts as a catalyst and it is continuously regenerated.
+
+13. What is Markovnikov's rule? 
+
+Ans: It states that the H atom in HX is added to the C atom of the C-C double bond that already has the greater number of H atoms.
+
+Common misconceptions/tips/points to note:
+1. We can replace ammonia with an amine in the conversion of a carboxylic acid to an amide (in addition to adding PCl3).
+2. Note that teritary alcohols cannot be oxidized (dichromate solution does not change colour upon heating with it).
+3. Cold, dilute KMnO4/OH-(aq) should be used for reactions, while KMnO4/H+ can be used for detection of chemicals. 
+   (KMnO4/H+ is strongly oxidizing and oxidizes alcohols formed into aldehydes or carboxylic acids)
+
+Chapter 45 -- Inter-conversions of carbon compounds
+1. (Element Ch11 q90a) Explain why it is dangerous to use the above set-up to carry out simple distillation. Suggest a modification.
+
+Ans: -It is dangerous to carry out the exp. in a closed system. Pressure will build up due to expansion of gases, resulting in an explosion.
+     -Add a receiver adaptor between the condenser and the round bottomed flask
+
+2. (Element Ch11 q91a) The crude product of 2-chloro-2-methylpropane is wahed with 10% NaHCO3(aq). Outline the exp procedures with safety precautions.
+
+Ans: -Add slowly 10% NaHCO3(aq). Wait until no effervescence occurs.
+     -Stopper and shake the separating unnel vigourously and relieve any internal pressure built inside the funnel immediately
+     -Add a drop of water to the funnel to identify the aqueous layer. Remove the the aqueous layer.
+
+3. Suggest one advantage of using a separating funnel to carry out the exp.
+
+Ans: Allow easy siolation of product by draining out the lower layer from the ~
+
+4a) Outline the procedures to isolate the ester formed from reaction between alcohol and carboxylic acid.
+Ans: -Shake mixture with NaHCO3(aq) in a separating funnel until no more gas is evolved
+     -Extract the ester from the mixture using ether 
+     -Remove ether by simple distillation
+
+4b) Suggest why the alcohol should not be used in excess in this preparation.
+Ans: It is difficult to remove the alcohol from the ester as both substances do not react with alkali/ their difference in b.p. is small.
+
+5. In the preparation of iodoethane using red P, iodine and ethanol, explain why iodine is added is small portions and over a period of time.
+
+Ans: The reaction is highly exothermic and vigourous. 
+
+6. State the possible consequence of a) running off the lower layer from a separating funnel without removing the stopper. 
+                                     b) using an excess of a hot solvent to dissolve the crude solid product during re-crystallization.
+
+a) Ans: Without releasing the pressure, the liquid in the separating funnel will not dragin out of the funnel.
+b) Ans: The product may not separate out as crystals if too much solvent is used.
+
+7. Outline the procedure for purification of crude product with colour impurities by recrystallization from an ethanol-water mixture.
+
+Ans: -Dissolve the crude product in minimum volume of hot ethanol-water mixture
+     -Heat the solution with activated charcoal to remove colour impurities
+     -Filter the hot mixture
+     -Allow the filtrate to cool to room temp. to obtain ~
+
+8. (Element Ch11 q110b) Outline an experimental procedure based on a solvent extract process to isolate pure heptanoic acid from hexa-3-one.
+
+Ans: -Add ether and dilute NaOH (aq), shake in a separation funnel
+     -Upper organic layer (ether) contains hexa-3-one, lower aqueous layer contains CH3(CH2)5CO2-Na+ (sodium salt)
+     -Separate the two layers
+     -Add dilute HCl (excess mineral salt) to regenerate CH3(CH2)5CO2H
+     -Extract with ether and distill ether to obtain pure heptanoic acid
+
+9. Can alkaline potassium permanganate solution be used instead of the acidified version in the reacion with prenol to give acid? Why? (Prenol is a primary alcohol with C=C)
+
+Ans: No. If ~ is used, prenol will undergo addition reaction but not oxidiation with alkaline KMnO4 (aq) to give ~ instead.

@@ -158,8 +158,13 @@ Note: presence of sunlight/UV light/heat is NOT required
 Ans: -Octane, because octane has a higher percentage of carbon by mass [1]
      -Octane is more difficult to burn completely (chance to undergo incomplete combustion to give C is higher) [1]
 
+9. Explain why the aluminium oxide is strongly heated while the rocksil is only gently heated from time to time in the cracking process.
+
+Ans: To make sure that the aluminium oxide is hot enough for catalytic reaction
+
 Common misconceptions/other tips/points to note:
 1. Sootiness of flame depends on the percentage molecular mass of carbon in the compound.
+2. Average molecular mass of air = 28.5 (-28.8)
 
 Chapter 23 -- Addition Polymers
 
@@ -182,11 +187,11 @@ Ans: -Only weak intermolecular forces exists between polymer chains
 
 4. What is addition polymerization? (Ans: Monomer molecules are joined together to form polymer chains WIHTOUT LOSING ANY ATOM.)
 
-5. Explain why polypropene burns with a more sooty flame. (More carbon peron molecule)
+5. Explain why polypropene burns with a more sooty flame. (More carbon per one molecule)
 
 6. Suggest one rason why PVC (polyvinyl chloride) is not used for making food containers. (Ans: Its monomer and plasticizer are toxic)
 
-7. State 2 properties that enable Teflon (polytetrafluoroethene) to be used as the non=stick coating for frying pans. (Ans: high m.p., non-toxic)
+7. State 2 properties that enable Teflon (polytetrafluoroethene) to be used as the non-stick coating for frying pans. (Ans: high m.p., non-toxic)
 
 8. State the 6 common types of addition polymers and a few of their properties and applications. (soft/hard, price, toxicity, flammability, m.p.)
 
@@ -195,7 +200,7 @@ Ans: PE: plastic toys; PP: plastic bags; PVC: bottles; PS: feeding bottles for b
 
 9*. Suggest 1 reason why glass bottles are preferred to plastic bottles for the storage of champagne.
 
-Ans: Champagne contains a pressurized carbon dioxide solution. Glass cacn withstand the pressure.
+Ans: Champagne contains a pressurized carbon dioxide solution. Glass can withstand the pressure.
      The ethanol solution (champagne) can dissolve unpolymerized monomers in plastic.
 
 10a) How can polystyrene be prepared in the laboratory?
@@ -205,7 +210,7 @@ Ans: -Heat a mixture of styrene and kerosene under reflux using a sand bath in a
 
 10b) Suggest 3 safety precautions regarding the above experiment.
 
-Ans: -Oil bath: kerosene is flammable; Fume cupboard: styrene vapour is irritant; anti-bumping granules: smooth boiling
+Ans: Oil bath: kerosene is flammable; Fume cupboard: styrene vapour is irritant; anti-bumping granules: smooth boiling
 
 11. Explain whether PVC is suitable for making electric sockets or not. (Ans: No. PVC is a thermoplastics and melts upon heating.)
 
