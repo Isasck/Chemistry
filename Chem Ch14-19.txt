@@ -168,9 +168,9 @@ Answer: (1) To provides a stable environment for the pH sensor/maintain a consta
 
 6a) State the advantages of using a pH meter rather than indicator solutions.
 
-Answer: Easy to use,  quick to obtain accurate readings, can measure solutions of intense colour
+Answer: Easy to use, quick to obtain accurate readings, can measure solutions of intense colour
 
-6b) State the advatanges of using a  data logger with a pH sensor.
+6b) State the advatanges of using a data logger with a pH sensor.
 
 Answer: can be used in remote/dangerous situations, can be carried out 24/7, more accurate (X human error), frequent time intervals for collecting data etc.
 
@@ -264,7 +264,7 @@ Chapter 18 -- Salts and Neutralization
 9b) Why is excess CuO (s) needed in the reaction?
 
 10a) In the preparation of zinc sulphate, why can't zinc hydroxide and sulphuric acid be used? (Answer: Zinc hydroxide is not commonly found in the lab as a reagent.)
-10b) How can we determine if the reaction has ended in adding zinc metal with sulphuric acid? (Answer: No colourless gas bubbles/zinc does not dissolve)
+10b) How can we determine if the reaction  has ended in adding zinc metal with sulphuric acid? (Answer: No colourless gas bubbles/zinc does not dissolve)
 
 11. What is the purpose of washing the crystals? Why must distilled water instead of tap water be used?
 

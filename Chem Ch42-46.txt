@@ -2,7 +2,7 @@ Chapter 42 - Introduction to selected homologous series
 
 1. Explain why there a lot of organic compounds with reference to the properties of carbon. (RECAP)
 
-Ans: -C atom can form strong covalent with itself and other atoms
+Ans: -C atom can form strong covalent bonds with itself and other atoms
      -C atom can form up to 4 bonds with other C atoms to give chains, branched chains and rings
      -C atom can form multiple bonds (double bonds and triple bonds) with C, N and O atoms
     
@@ -13,8 +13,10 @@ Ans: -C atom can form strong covalent with itself and other atoms
 4. Why do the difference in b.p. of alkanes and their corresponding alcohols become smaller as the no. of C atoms in molecules increase?
 
 Ans: -An alcohol molecule is made of 2 parts - the non-polar hydrocarbon chain and the polar -OH group
-     -As the No. of C atoms in an alcohols molecule increases, the influence of the -OH group become less significant compared with that of increasingly large H/C chain
-     (Properties of higher alcohols tend more and more towards those of the corresponding non-polar alkanes))
+     -As the no. of C atoms in an alcohols molecule increases, the influence of the -OH group become less significant compared with that of increasingly large H/C chain
+     (Properties of higher alcohols tend more and more towards those of the corresponding non-polar alkanes)
+
+Note: The bulky H/C chain blocks the -OH group, hindering the formation of H-bonds with water molecules
 
 5. Explain whether amines with small alkyls groups are soluble in water. [RECAP]
 
@@ -28,14 +30,28 @@ Ans: -Under the condition of the exp., some ethanoic acid exist as dimers owning
 
 7. Explain why the density of propan-1-ol is greater than that of propan-2-ol.
 
-Ans: C is more spherical than D. Strength of v.d.w. of propan-1-ol is strong than propan-2-ol as it has a greater contact surface area. The stronger intermolecular forces in ~ leads to higher density.
+Ans: Propan-2-ol is more spherical than propan-1-ol. Strength of v.d.w. of propan-1-ol is strong than propan-2-ol as it has a greater contact surface area. The stronger intermolecular forces in ~ leads to higher density.
 
-8. Suggest why isoamyl acetate is soluble in most non-polar organi compounds.
+8. Suggest why isoamyl acetate is soluble in most non-polar organic compounds.
 
 Ans: It is a relatively non-polar compound. The intermolecular forces between its molecules and the molecules of most non-polar organic solvent are of comparable strength.
 
+10. State one application of alcohols regarding its property as a mutual solvent (able to dissolve polar and non-polar substances).
+
+Ans: Helps mix water-based and oil-based ingredients in making perfumes and cosmetics 
+
+11. Explain why trans-butendioic acid has a higher density than cis-butendioic acid.
+
+Ans: cis~ occupies less space per unit mass due to the formation of intramolecular H-bonds which causes molecules to be packed closely in liquid state.
+
+12. What is a catalyst? [RECAP]
+
+Ans: A substance which can alter the rate of a recation without itself being chemically changed at the end of the reaction.
+
 Common misconceptions/tips/points to note:
 1. When describing contrasting properties between 2 different functional groups, always state that it is the molecules with similar R.M.M. that is being compared.
+2. Double bond in alkenes introduce rigidity in the molecule, reducing contact surface area available for intermolecular interaections (alkane b.p./n.p. > alkene)
+3. Dimers of ethanoic acid can only be formed in vapour state or when dissolved in organic solvent.
 
 Chapter 43 -- Isomerism
 
@@ -65,7 +81,7 @@ Ans: Each doubly-bonded C atom in the compound is attached to different atoms.
 
 4. The melting point of cis-x is lower than that of trans-x. Explain the difference in m.p. of the two isomers.
 
-Ans: -In addition to intermolecular forces, the m.p. of a copmound depends on the packing efficiency of molecules in solid state
+Ans: -In addition to intermolecular forces, the m.p. of a compound depends on the packing efficiency of molecules in solid state
      -Cis-x is less symmetrical than trans-x so it has lower packing efficiency and thus has a lower m.p.
 
 5. (Element Ch11 q18b) Both dimethyl fumarate and A can be hydrolysed to their corresponding dicarboxylic acids, B and C. Explain why the m.p. of C is lower than B.
@@ -86,9 +102,9 @@ Ans: Yes, unless the reaction counterpart is optically active.
 
 8. Explain why there are no cis-trans isomers of a haloalkane.
 
-Ans: -It only contains single bonds. There is free rotation about single bonds, hence no cis-trans isomers exist
+Ans: It only contains single bonds. There is free rotation about single bonds, hence no cis-trans isomers exist
 
-9. Given a reaction between HBr and 3-methylhex-3-ene and HBr. Someone said that the product obtained is optically active? Is he correct?
+9. Given a reaction between HBr and hex-3-ene and HBr. Someone said that the product obtained is optically active? Is he correct?
 
 Ans: No. A racemate is formed.
 
@@ -111,7 +127,7 @@ Ans: -The HI (g) formed will be oxidized by conc. H2SO4 to iodine (H2SO4 + NaI -
 
 Ans: It removes water which converts the salt to amide.
 
-4. Explain why the reaction is carried out under reflux. (Ans: To prevent loss of reactants and products by evaporation)
+4. Explain why the reaction is carried out under reflux. (Ans: To prevent loss of volatile reactants and products by evaporation/vaporization)
 
 5a) A student attempted to prepare butan-1-ol using 1-fluorobutane instead of 1-bromobutane as the reactant. Suggest why the reaction would proceed at a slower rate.
 Ans: 1-fluorobutane reacts slower because C-F bond is stronger than C-Br bond as a result of smaller atomic size of F.
@@ -158,6 +174,10 @@ Ans: A very small amount of H+(aq). H+ acts as a catalyst and it is continuously
 
 Ans: It states that the H atom in HX is added to the C atom of the C-C double bond that already has the greater number of H atoms.
 
+14. How does alumina work as a catalyst in the conversion of alcohols to alkenes?
+
+Ans: It provides acidic sites on its surface that facilitate the removal of water from alcohols.
+
 Common misconceptions/tips/points to note:
 1. We can replace ammonia with an amine in the conversion of a carboxylic acid to an amide (in addition to adding PCl3).
 2. Note that teritary alcohols cannot be oxidized (dichromate solution does not change colour upon heating with it).
@@ -170,7 +190,7 @@ Chapter 45 -- Inter-conversions of carbon compounds
 Ans: -It is dangerous to carry out the exp. in a closed system. Pressure will build up due to expansion of gases, resulting in an explosion.
      -Add a receiver adaptor between the condenser and the round bottomed flask
 
-2. (Element Ch11 q91a) The crude product of 2-chloro-2-methylpropane is wahed with 10% NaHCO3(aq). Outline the exp procedures with safety precautions.
+2. (Element Ch11 q91a) The crude product of 2-chloro-2-methylpropane is washed with 10% NaHCO3(aq). Outline the exp procedures with safety precautions.
 
 Ans: -Add slowly 10% NaHCO3(aq). Wait until no effervescence occurs.
      -Stopper and shake the separating unnel vigourously and relieve any internal pressure built inside the funnel immediately
@@ -178,7 +198,7 @@ Ans: -Add slowly 10% NaHCO3(aq). Wait until no effervescence occurs.
 
 3. Suggest one advantage of using a separating funnel to carry out the exp.
 
-Ans: Allow easy siolation of product by draining out the lower layer from the ~
+Ans: Allow easy isolation of product by draining out the lower layer from the ~
 
 4a) Outline the procedures to isolate the ester formed from reaction between alcohol and carboxylic acid.
 Ans: -Shake mixture with NaHCO3(aq) in a separating funnel until no more gas is evolved
@@ -216,3 +236,41 @@ Ans: -Add ether and dilute NaOH (aq), shake in a separation funnel
 9. Can alkaline potassium permanganate solution be used instead of the acidified version in the reacion with prenol to give acid? Why? (Prenol is a primary alcohol with C=C)
 
 Ans: No. If ~ is used, prenol will undergo addition reaction but not oxidiation with alkaline KMnO4 (aq) to give ~ instead.
+
+Chapter 46 -- Common organic substances
+
+1. Describe the cleansing action of soap.
+
+Ans: -Wetting agent: h/c tails dissovlve in grease, ionic head (insoluble in grease) remain outside, attracted by surrounding water molecules -> lift the grease off the surface
+     -Emulsifying agent: shaking/stirring -> oil breaks into droplets -> repulsion of ionic head of detergent particles on surface of oil droplets -> emulsion formed (-> rinsing washes away the greasy suspension)
+
+2. Name a advantage of soapless detergents over soapy detergents.
+
+Ans: -works well in acidic medium
+     -can save food in the production process
+
+3. Describe the process of making soap.
+
+Ans: heat with ~ and ~, add ~ to lower the solubility of soap (salting out), soap floats to the surface -> filter -> wash with ~ and dry ~
+
+4. List the raw materials of soapy detergents and soapless detergents.
+
+Ans: Soapy: vegetable oil/animal fats, NaOH, conc. NaCl
+     Soapless: petroleum fractions, conc. h2so4, NaOH
+
+5. State the environmental impacts of discharge of wastewater containing detergents into rivers and lakes.
+
+Ans: -Decomposition of detergents consumes oxygen -> death of aquatic lives
+     -Some detergents are toxic to aquatic life
+     -Detergents causes foaming -> foam cuts of O2 -> ~
+     -Some detergents contains phosphates as additives -> algal bloom/eutrophication
+
+6. Suggest 2 types of materials made by polyester. (Ans: textile fibres for making clothes, bottles for carbonated drinks)
+
+7. Suggest an environ. adv. of PET over PE. (Ans: PET can be readily hydrolysed with acid/alkali/enzymes/microorganisms, degrade more easily, can be burnt more completely)
+
+Common misconceptions/tips/points to note:
+1. Synthetic detergents with the long hydrocarbon chains NOT branched are biodegradable. (only detergents with straight H/C chains are biodegradable)
+2. Extra: Scum (insoluble solid) is formed if soapy (not soapless) detergent is added to hard water (water with Ca2+, Mg2+).
+3. Soapy detergents do not work well in acidic medium because they combine with H+ (aq) to form long chain fatty acids, which are water-insoluble.
+4. Durability of plastics is due to unreactive C-H / C-C bond

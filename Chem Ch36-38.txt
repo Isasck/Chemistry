@@ -1,3 +1,31 @@
+Chapter 36 + 37 -- Rate of reaction (Unorganised)
+
+1. What are the disadvantages of titrimetric analysis?
+
+Ans: -It is very difficult to measure the change of concentration continuously
+     -It cannot be used to study fast reactions because titrimetric analysis takes time
+
+2. Name the apparatus used for measuring conductivity of a solution. (Ans: A conductometer)
+
+3. State 2 advantages of using colourimetry in an experiment.
+
+Ans: -Readings can be instantly obtained
+     -Absorbance of a solution with low concentration can still be determined
+
+4a) Consider a reaction between MnO4- and C2O42- (producing Mn2+, CO2, H2O). Suggest an explanation for the variation in MnO4 conc. obtained.
+
+Ans: -The reaction of ~ is slow possibly because both ~ are negatively charged (repulsion)
+     -It is likely that one of the products (Mn2+) is a catalyst for the reaction (autocatalysis)
+     -The reaction is slow at the beginning because of the low concentration of Mn2+. When ~ builds up, the reaction proceeds rapidly
+     -When MnO4- ions are almost used up, the rate slows down
+
+4b) Suggest a method to show whether or not Mn2+ is a catalyst of the reaction.
+
+Ans: -Repeat the experiment with a few drops of Mn2+ firstly added to the reaction mixture
+     -Consumption of MnO4- ions will be faster at the beginning if ~ is added
+
+5.
+
 Chapter 38 -- Molar volume
 
 1. Recall the following:

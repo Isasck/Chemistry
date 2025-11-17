@@ -1,0 +1,31 @@
+(Unorganised)
+
+1. Does adding more catalyst affect the yield of product?
+
+Ans: No, because ~ increases the rate of both forward and backward reactions to the same extent. So it does not affect the eqm and hence ~
+
+2. Suggest why [H2O(l)] is considered as a constant with reference to values of [H+(aq)] and [OH-(aq)]
+
+Ans: Only a very small amount of H2O is ionised to give ~. [H2O(l)] >> [H+(aq)] or [OH-(aq)]
+
+3. Explain whether the pH of water at 328K would be <7 or >7 or =7.
+
+Ans: <7. The ionization of H2O(l) is endothermic. Increasing the temperature will shift the eqm pos to the right.
+
+*Remember to state if the reaction is endothermic/exothermic first before saying the shift in eqm pos
+
+4. What is meant by 'dynamic equilbrium'?
+
+Ans: In ~, the rate of forward reaction is equal to the rate of backward reaction and not equal to zero.
+
+5. Suggest 2 ways to increase the yield of ammonia when the process is put into industrial practice.
+
+Ans: -Increase the pressure of the system to about 200atm
+     -Raise the temperature to around 400 to 500 degree Celsius
+     -Use finely divided iron as catalyst
+     -Remove ammonia by liquefaction and pass the unreacted N2 and H2 back into the reaction chamber
+
+Common mistakes/tips/points to note:
+1. In alkaline hydrolysis, the reaction goes to completion because carboxylate (salt product) is continuously removed by H+ (eqm pos keeps shifting to the right)
+2. For eqm pos questions about pressure, always state the number of moles of gas on each side first and do comparison. (~ favours ~)
+3. For N2O4 <-> NO2 reactions, always consider both the instantaneous and final colour change.

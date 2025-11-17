@@ -30,8 +30,7 @@ Ans: A caesium ion has a larger size than a sodium ion. More chloride ions surro
 
 9. What are allotropes?
 
-Ans: Allotropes are two (or more) forms of the same element in which the atoms or
-molecules are arranged in different ways.
+Ans: Allotropes are two (or more) forms of the same element in which the atoms or molecules are arranged in different ways.
 
 10. Draw the structures of NaCl, CsCl, diamond and graphite.
 
@@ -280,7 +279,7 @@ Common mistakes/misconceptions/remarks:
 
 Chapter 13 -- Corrosion of Metals and their Protection
 
-1. What is corrosion of metal? (Ans: te slow reaction of a metal with air, water or other substance in the environment)
+1. What is corrosion of metal? (Ans: the slow reaction of a metal with air, water or other substance in the environment)
  
 2. What is the nature of the corrosion of metal?
 
@@ -303,7 +302,7 @@ Ans:
 
 Ans:
     - Iron loses electrons to form iron (ii) ions
-    - The dissolved oxygen and water accept the elections to form hydroxide ions
+    - The dissolved oxygen and water accept the electrons to form hydroxide ions
     - The iron (ii) ions and hydroxide ions formed combine to form insoluble iron (ii) hydroxide (s) (green)
     - Insoluble iron (ii) hydroxide reacts with dissolved oxygen and water to form iron (iii) hydroxide (s) (yellow/ brown)
     - Iron (iii) hydroxide changes to hydrated iron (iii) oxide, which is rust, a reddish brown solid

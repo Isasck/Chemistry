@@ -1,0 +1,422 @@
+Part I: Introduction to Industrial Chemistry
+
+1. The price of crude oil has risen sharply in recent years. Describe the effects of oil prices on society.
+
+Since oil products are used for fuels and to make many everyday life products, the increase in ~ would increase cost of transportation [1],
+and the cost of production of many everyday life products. [1]
+
+2. Why is cracking important to petrochemistry?
+
+Supply of higher b.p. fractions is greater than its demand while demand of ~ is greater than its supply. Cracking provides more lower b.p. fractions to meet the demand.
+Useful products like alkenes are produced during cracking, which are the raw materials for many useful industrial products.
+
+3. Give one advantage and disadvantage for the production of plastic items. 
+
+Advantage: As a substitute for metals in making different items, can easily be recycled and moulded into other plastic items
+Disadvantage: Non-biodegradable, disposal of ~ causes land pollution, incineration of ~ produces air pollutants, petroleum is a non-renewable resource
+
+4a) Why is gold often used to plate electrical connectors? (It is unreactive, which prevents the ~ from corrosion)
+4b) Give one advantage and disadvantage of the gold plating industry.
+
+Environmental: resists corrosion of metal objects -> last for much longer time -> reserve metal resources;
+               ~ produces toxic chemical wastes including Au+, strong acids and alkalis -> cause serious water pollution if not treated
+Economic: gold-plated items are more durable, cost for item replacement is reduced;
+          people have to pay much more for the gold-plated items, gold is discarded when ~ are disposed of
+
+5a) Suggest advantages of producing ethanol on (i) large scale in a chemical plant (ii) small scale at home.
+
+(i) Lower production cost, product with consistent quality, better pollution control possible
+(ii) Products can be tailored-made to the needs of consumers
+
+5b) Should wine be produced by hydration of ethene (using conc. h2so4)?
+
+No. Wine contains many natural organic compounds with special tastes, which cannot be synthesized using the ~.
+
+6a) Vitamin C is used as an additive in certain processed foods. Give two reasons for this.
+
+~ is used as an anti-oxidant, ~ is lost during food processing (esp. during heating), ~ is added to increase the nutritive value of food
+
+6b) Vitamin C can be extracted from fruits. Suggest 2 reasons why there is a need to design industrial processes to manufacture ~.
+
+Cost of feedstock is high, extraction processes from ~ is expensive, supply of ~ is shrinking
+
+7a) Discuss the importance of production of synthetic fertilizers.
+
+World population increases, farmland is limited -> ~ are used to increase crop yield of farmland
+
+7b) Suggest one advantage and disadvantage of using pesticides in the farming industry.
+
+Advantage: Kill insects which are harmful to crop grwoth, remove growth of undesirable weeds which use up the nutrients in soil
+Disadvantage: May kill animals which are not harmful to ~, remains of pesticides in soil lead to soil and water pollution, ~ is harmful to human health
+
+8a) Suggest the function of soapless detergents in laundry powder.
+
+It acts as an emulsifying agent to form an emulsion with grease molecules in water; dissolves grease dirt and remove grease from clothes; helps wetting the clothes
+
+8b) What is the use of calcium hypochlorite in laundry powder?
+
+Make clothes look brighter/whiter, remove unwanted coloured pigment stuck on clothes, as a disinfectant to kill bacteria on clothes
+
+9. Why must the ascorbic acid produced in industrial processes be purified?
+
+Product contains impurities which are harmful to our health.
+
+Part II: Rate Law 
+
+1. Deduce the rate law for the reaction.
+
+Method 1: Direct comparison (without calculation)
+e.g. From experiments 1 and 2, the initial remains unchanged/increased by a factor of x when the concentration of <A> increased by a factor of x.
+    -> order of reaction with respect to <A> is y 
+
+Method 2: Calculation 
+e.g. let the rate equation be: rate = k[A]^a * [B]^b * [C]^c -> simultaneous equations
+
+2. Write the reaction between bromate ions and bromide ions (bromine and water are formed).
+
+3. Suggest an experimental method that can be used to follow the progress of decomposition of N2O5 in CCl4 (NO2 and O2 are formed).
+
+Method 1: NO2 is brown in colour. ~ by measuring the colour intensity/absorbance of solution using a colourimeter.
+Method 2: O2 is insoluble in CCl4. ~ by measuring the vol. of O2 liberated using a gas syringe.
+Method 3: O2 is insoluble in CCl4. ~ by measuring the pressure of the system using a pressure sensor.
+
+4. Can the order of reaction be determined from its chemical equation? 
+
+No, the order of reaction w.r.t. each reactant does not bear the same ratio as the coefficients of reactants in the equation.
+The order of reactoin w.r.t. each reactant can only be determined experimentally.
+
+5. Why is water added to different experiments?
+
+To make the total volume of mixture unchanged so that the molarity of <a certain reactant> is proportional to its vol. of solution added.
+
+6. Describe briefly how the initial rate of formation of I2(aq) is determined.
+
+Answer 1 (more detailed)
+Measure the absorbance of I2 (aq) in the reaction mixture during the course of the reaction using a colourimeter.
+By using a callibration curve, find the concentration of I2(aq) at different times. Plot a curve of concentration of I2(aq) against time.
+Find the tangent to the curve at time = 0. This corresponds to the initial rate of formation of I2(aq).
+
+Answer 2 (more concise)
+Plot a graph of absorbance against time. Slope of curve at t = 0 represents initial rate.
+
+7a) Consider the decomposition reaction of h2o2. For a given amount of MnO2 catalyst, outline how you would determine [h2o2(aq)] at different times in the reaction mixture.
+
+Withdraw a known volume of the reaction mixture and add to excess dilute h2so4.
+Titrate h2o2 against standard KMnO4- until a permanent pink colour appears.
+The volume of Kmno4 used is directly proportional to the concentration of h2o2(aq) present.
+
+7b) Replace MnO2 with peroxidase as catalyst. Is it possible to determine the rate constant for the above reaction at 353K experimentally?
+
+No. The catalytic activity of an enzyme depends on its stereostructure. At elevated temp., the enzyme denatures and its catalytic activity decreases.
+
+8. Why is it necessary to keep the concentration of <reactant> much higher than <reactant studied>?
+
+When [<reactant>] >> [<reactant studied>], [<reactant>] almost remains unchanged during the reaction.
+The rate equation becomes rate = k'[<reactant studied>]^y, where k' = k~. [<reactant studied>]^y is the only factor which affects reaction rate.
+
+9. Is the reaction an elementary reaction? Explain.
+
+No: order of reaction is different from its molecularity (the number of reactants in the rate-determing step). The chance for x molecules to collide and react is very low.
+
+10. Outline the titrimetric method of monitoring the rate of a reaction. (similar to q7a)
+
+At regular time intervals, withdraw a known volume of reaction mixture using a pipette.
+Add it to excess NaHCO3(aq) to quench the reaction.
+Titrate it against standard <x> using <y> as an indicator.
+
+11. Consider the reaction between I- and H2O2/S2O8- (strong oxidizing agent). The reaction rate is studied using thiosulphate.
+a) Describe the procedure for the experiment.
+Add a known volume of standard S2O3 2- and some starch indicator to the I- before adding <oxidizing agent>.
+Add <oxidizing agent> to the mixture of I-, S2O3 2-, and starch indicator and record the time for the first apperance of a blue colour.
+The I2 formed will react with the S2O3 2- present. 
+When all S2O3 2- are consumed, the excess I2 will react with the starch indicator to give a blue colour.
+
+b) Describe ane explain the change of colour in the experiment.
+H2O2 oxidizes I- to I2 which reacts immediately with S2O3 2-. When S2O3 2- is completely consumed, the excess I2 liberated reacts with starch solution to give a blue black colour.
+
+c) What is the purpose of adding thiosulphate solution?
+To monitor the formation of fixed amount of iodine from the reaction of S2O8 2-(aq) and I-(aq) ions.
+
+d) Why is a fixed amount of thiosulphate used in the experiments?
+~ is used to measure the time required for the formation of the same amount of I2 in the reactions.
+
+e) State 3 sources of errors in the experiment.
+The amount of reactants used in each experiment may not be exactly the same.
+There may be an error in measuring or reading the temperatures from the thermometers.
+As the colour change of the solution mixture is not a sudden one, especially at low temperatures, there may be an error in recording the time of colour change.
+
+12a) Consider the reaction between acid and thiosulphate. Describe the experiment on how to study the reaction rate.
+
+Make thiosulphate of known molarities and place equal volumes of these solutions in conical flask.
+Measure temp. of solutions to make sure it's 298K (or place the beaker in a thermostatic bath).
+Put the conical flask on a cardboard/paper marked with 'X'.
+Add a fixed volue of acid to thiosulphate and start the stopwatch.
+Measure time taken for the cross to become invisible due to sulphur formation.
+Take the intial rate as 1/t.
+
+12b) Suggest advantages of a microscale experiment for the reaction above.
+
+Smaller amounts of chemicals are used, reducing cost and preparation time. Total volume of toxic SO2 produced is reduced.
+
+12c) Explain how the 'method of initial rate' is used in this experiment.
+
+The rate is determined by measuring the time taken for a small and fixed amount of sulphur to precipitate, obscuring a marked cross under the flask.
+As the formation of a very small amount of S is just sufficient to blot out the cross, we can regard this average rate as the initial rate of the reaction.
+
+Points to note:
+1. Plot a graph of log(rate of reaction) against log(volume of reactant A used) -> slope = order of reaction w.r.t. reactant A
+2. If reaction rate is independent of reactant A, graph of titre/molarity against time should be a straight line
+3. Important reactions to study: a) Decomposition of h2o2, titrate h2o2 with mno4-  b) I- + oxidizing agent, I2 + thiosulphate c) acid + thiosulphate -> sulphur (blotting out)
+4. Make sure to describe the conditions of an experiment in detail (fixed temperature, volume of solutions, known molarities etc.)
+5. Line in rate concentration graph should pass through the origin.
+6. For colourimetry questions, when asked why the rate of change of absorbance can reflect reaction rate, remember to point out that other species are colourless in addition to the coloured species.
+7. For concentration-time graphs, extrapolation may be required. (extend the line to find both x-int and y-int for calculating slope)
+
+Part III: Activation Energy, Energy Profile, Reaction Mechanism
+1a) Sketch a graph to show the distribution of the KE of oxygen gas at 298K and 373K. (maxwell-boltzmann distribution) 
+
+y-axis: no. of molecules/fraction of molecules; x-axis: Kinetic Energy
+
+1b) Explain why there is a distribution of KE of the oxygen molecules.
+
+The motion of gas molecules is random. Collisions between molecules occur randomly. Some collision result in a gain of KE while others result in a loss.
+If a molecule undergoes a series of collisions such that each collision adds to its KE, it will end up with a KE higher than average
+Similarly, ~
+
+1c) Explain the effect of increasing temperature of the rate of a reaction, with reference to the graph.
+
+At higher temperature, a greater fraction of reactant molecules which possess a KE greater than or equal to the activation energy of the reaction, so reaction rate increases.
+(Shaded area under one of the curves represent the amount of molecules that collide with KE which is greater than the Ea)
+
+2. Explain why the rate of reaction increases with temp.
+
+Rate of reaction depends on collision frequency of reactant molecules.
+Only those colliding molecules with KE greater than the Ea can react. (sufficient energy to overcome Ea and react)
+When temp. increase -> avg KE of molecules ~ -> chance of collision ~ -> greater percentage of colliding molecules have KE > Ea
+
+3. Outline what measurements have to be take in order to determine the activation energy of a reaction.
+
+Keeping the concentration of the reagents unchanged. Carry out the experiment at different temperatures. Determine the corresponding intial rate/ rate constant. 
+Plot a graph of ln K (or log 1/time if initial rate is used) against 1/T, where T is temp. in Klevin. Slope of the graph = ~
+
+4. Describe and explain the relationship between Ea of a reaction and the effect of temperature on its reaction rate.
+
+Rate of reaction with higher Ea is more sensitive to temperature change than ~. (when temp. increase, fraction of molecules which have enough energy to react increases MORE SIGNIFICANTLY than ~)
+
+5. Explain why the eqm constant (Kc) of an exothermic reaction decreases as temperature is increased.
+
+For an exothermic reaction, the backward reaction has a higher Ea than the forward reaction.  
+When temp. increase, increase in backward reaction rate is greater than the increase in foward reaction rate.
+Hence, more reactants are present than before and the eqm constant decreases.
+
+6. Define the term 'activation energy'.
+
+The minimum amount of energy required to supply the reactants to start a reaction.
+
+7. Draw the energy profile for reaction x. Label your graph.
+
+y-axis: Potential energy; x-axis: reaction coordinate; label Ea, enthalpy change, reactants, intermediates (if any), products
+for a alternative catalytic pathway, do not always draw 2 curves ('sketch' a labelled energy profile for the catalysed reaction -> only draw one curve)
+rate determining step: transition state has highest energy
+
+8. Explain why the activation energies of the forward and backward reaction are different.
+
+Enthalpy content of ~ is lower than ~ -> more energy req. to break ~ bonds than to break ~ bonds -> Ea1 > Ea2
+
+9. For a reaction involving reactants in aqueous state, explain why the rate constant of the reaction at 120C cannot be determined.
+
+The reaction is carried out in aqueous medium. Under the given condition, water will be boiled away and the reaction will not take place.
+
+10. What is an activated complex?
+
+It is a high-energy, unstable arrangement of atoms that forms transiently during a chemical reaction as reactants transform into products. (bonds in ~ are not yet completely broken or formed)
+
+Points to note: 
+1. Remember unit conversion in Arrhenius equation (J -> kJ, Celsius to Kelvin)
+2. Rate-determining step can sometimes be deduced according to the rate equation (e.g. reaction A + B -> products, rate = k[A], rate-determining step -> A + ? + B -> intermediate + B)
+3. For questions involving Maxwell-Boltzmann distribution curves, pay attention if it is the temperature or presence of catalyst that is changed (2 curves vs 1 curve); use comparative language. 
+
+Part IV: Effect of Catalyst on Chemical Reaction
+
+1. Explain why a reaction proceeds faster in presence of a catalyst.
+
+~ causes reaction to take place via an alternative reaction pathway (mechanism) with a lower Ea. Lowering the energy barrier increases rate of reaction (larger fraction of molecules can reach the req. energy level for ~)
+
+2a) Why does a catalyst not change the eqm position of a reaction?
+
+~ speeds up both forward and backward reactions to the same extent, enabling the reaction to reach eqm faster but not changing the eqm pos.
+
+2b) Use the Arrhenius equation to explain why there is no shifting of eqm pos when catalyst is used.
+
+3a) Why is the reaction between peroxodisulphate and iodide ion slow without catalyst?
+
+Both ~ are -ve charged. They repel each other, lowering the chance of collision and increasing the energy required.
+
+3b) Suggest a catalyst for the above reaction. Explain.
+
+Fe2+ / Fe3+. <redox reactions> -> favoured as both species are oppositely charged.
+Note: Zn2+ cannot be used because I- (aq) does not reduce Zn2+ to Zn
+
+4. How is a heterogenous catalyst poisoned?
+
+~ when its catalytic activity is lost. Impurity particles may stick tightly to the surface of the catalyst/ may react with the catalyst.
+The surface of the catalyst is no longer available for the reactants to react.
+
+5. Consider the reaction between H2 and O2 to form water. Explain why the mixture explodes when there is an electric spark, in presence of a Pt catalyst.
+
+An electric spark produces a very high temperature. Most molecules near the spark have sufficient energy to react. As the reaction is highly exothermic,
+the heat produced provides the energy for other molecules to react. 
+
+6. Consider the decomposition of H2O2. What happens to MnO2 before and after the reaction.
+
+The amount of ~ remains unchanged. The physical appearance of ~ is changed, from lump form to powdered form.
+
+Points to note:
+1. Autocatalysis: product acts as catalyst for the reaction (e.g. reaction between MnO4- and C2O4 2- produces Mn2+, Mn2+ ~)
+2. K2O enhances the activity of iron catalyst. Sulphur poisons Pt catalyst in catalytic converters.
+3. Mention 'impurities' regarding catalytic poisoning.
+
+Part V: Industrial Processes
+
+1. Why is ammonia not directly added on soil as fertiliser? (revision) (Easily washed away by rain, pungent smell, toxic, too alkaline)
+
+2a) What are the theoretical conditions of temp. and pressure for the high yield of the Haber process?
+
+Low temp: high yield, reaction is exothermic
+High pressure: more no. of moles of gases on the left, shift eqm pos to the right, higher yield
+
+2b) What are the actual temp. and pressure for the process? Explain this discrepancy, if any.
+
+Actual temp: 450C (moderately high temp.), compensation between reaction rate and yield
+Actual pressure: 200-300atm, compromise between reaction rate, eqm yield, and operating cost
+
+2c) Suggest how heat liberated inthe reaction can be used in the process.
+
+It is used to heat up the reactant gases before passing into the reaction chamber.
+
+2d) Can air be used instead of nitrogen in the reaction chamber?
+
+No, air contains O2, which reacts explosively with hydrogen. At elevated temp. N2 and O2 react to give NOx, making purification of NH3 hard
+O2 will react with NH3 to form NO or NO2, O2 reacts with Fe catalyst to form oxides 
+
+2e) Suggest how the gaseous mixture that emerges from the reaction chamber can be treated so as to reduce the wastage of raw materials.
+
+Separate NH3 from the gas mixture by condensation. Pass the unreacted N2 and H2 back into the reaction chamber.
+
+2f) What is the purpose of drying the gas before passing into the compressor?
+
+To prevent steam from reacting with Fe catalyst
+
+3. Why is ammonium nitrate explosive?
+
+It reacts with combustible materials to form large amounts of gases (N2, H2O, O2) -> gas expansion = explosion
+
+4. Write the 4 chemical equations in manufacturing ammonium nitrate (from NH3) and list the conditions under which they take place.
+
+Step 1: 10atm, 900C, Pt + Rh catalyst
+
+5. Describe how chlorine bleach is manufactured in the industry.
+
+Sodium hydroxide and chlorine are manufactured from the elctrolysis of brine using membrane cell/ mercury cell. Cl2 + 2NaOH -> NaOCl + NaCl + H2O
+
+6a) Suggest one reason NaOCl (aq) is used instead of chlorine gas in small swimming pools.
+NaOCl is easy to handle, leakage of toxic Cl2 may require evaucuation of people living nearby, chlorine is stored in heavy steel cylinder which is difficult to transport 
+
+6b) Suggest one chemical test to detect the presence of OCl-. 
+pH paper: turns blue and then will be bleached; add HCl: greenish yellow Cl2 gas is formed 
+
+6c) Describe how NaOCl is manufactured industrially.
+Electrolysis of brine, producing chlorine gas at the anode and NaOH solution from the electrolyte. Allow chlorine and NaOH to react to give NaOCl.
+
+6d) State one major use of NaOCl. (bleaching agent, disinfectant)
+
+7. State one way in which margarine differs from vegetable oils.
+The degree of unsaturation in margarine is less/ margarine has higher melting point/ margarine is solid and ~ is liquid at room condition 
+
+8. Explain why an inert electrode has to be used for the anode in the electrolysis of brine.
+Chlorine is produced at the anode, which would react with an active electrode. 
+
+Note: Chlorine can slightly attack Pt electrode so graphite electrode is better
+
+9. State one problem of using flowing mercury cell.
+
+Wastes which contain poisonous mercury compounds are produced. These waste products cause serious pollution problems if they are discharged into rivers and seas. 
+
+10. 'Electrolysis of brine can be used in large scale manufacture of hydrogen to help reduce air pollution problems.' Do you agree? Explain. 
+
+No: production of H2 in chloroalkali industry requires use of electricity, which is commonly generated by burning fossil fuels;
+    Cl2 is the main product of ~. large scale production of H2 will yield surplus Cl2. Disposal of unused of Cl2 is costly and will cause air pollution 
+Yes: Burning of H2 gives water only
+     If there is a cheap source of electricity, production of H2 by ~ can be a means of reducing air pollution 
+
+11a) Write the equation for steam-methane reforming and state the conditions. (steam + methane + NiO catalyst <10-20atm, 700-1000C> -> syngas + Cu/ZnO/Al2O3 catalyst <50-100atm, 200-300C> -> methanol (product mixture is cooled -> condensation))
+11b) State the uses of methanol. (as a feedstock to make a wide variety of other chemicals, like formaldehyde; as a solvent, as a fuel)
+11c) A dye is usually added to methanol when it is sold as fuel or solvent. Why? (~ is highly toxic. ~ to prevent people from drinking ~ by mistake) 
+11d) If you are going to choose between methanol and ethanol as a replacement of fuel for cars, which one would you choose?
+
+Methanol: Cost is lower, feedstock for ~ comes from substances which are used mainly for producing fuels (~ ethanol comes from crops which are sources of food)
+Ethanol: higher energy content -> produces more power, not as toxic as methanol 
+
+11e) How should we store methanol? (well-ventilated area, keep away from heat, use metal/glass containers instead of plastic)
+
+12. In the Haber process, the product mixture is removed from the reaction chamber before reaching the yield of about 20%. Explain why is this so. 
+
+It takes a long time to reach eqm that the NH3(g) is of highest yield to be attained. It can increase the total amount of NH3 produced per unit time. 
+
+13. Why does the Haber process need natural gas as a raw material? (Natural gas remains the most convenient way to provide hydrogen gas as feedstock for the production of ammonia in ~)
+
+14. Syngas can be obtained from the conversion of biomass. Suggest why it is considered as an advancement for methanol production technology. (Because biomass is a renewable energy resource)
+
+15. Why is the Haber process very slow without catalyst? (strong H-H bonds and very strong N-N bonds need to be broken)
+
+Points to note:
+1. 3 big industrial processes: a) Production of fertilisers (NH4NO3) b) chloro-alkali industry c) steam-methane reforming
+2. For Haber process, Fe catalyst is mixed with small amount of Al2O3 as promoter
+3. For membrane cell in chloro-alkali industry, state the net flow of ~ (cations) from ~ (anodic compartment) to ~ (cathodic compartment) due to the higher concentration of ~
+    (e.g. 1 mark for anode reaciton, 1 mark for cathode reaction, 1 mark for membrane)
+
+Part VI: Green Chemistry
+
+1a) What is green chemistry?
+
+~ is the utilization of a set of principles to design and apply chemical processes that maximize the production efficiency and reduces/eliminates the use and generaetion of hazardous substances at the same time. 
+
+1b) What is sustainable development?
+
+~ is the development which emets the needs of the present without compromising the ability of future generations to meet their own needs. 
+
+1c) List a few common principles of green chemistry
+
+- Prevent waste (e.g. use water instead of benzene, which causes pollution)
+- High atom economy 
+- Avoid hazardous chemical syntheses (e.g. use h2o2o instead of kmno4, which is toxic)
+- Design safer chemicals (little toxicity)
+- Avoid auxiliary substances (e.g. solvents, supercritical CO2 over organic solvents and tetrachloroethane)
+- Maximize energy efficeincy (low temp. and pressure, recycle heat generated in exothermic reactions)
+- Use renewable feedstocks (e.g. glucose (renewable) > fossil fuels (non-renewable))
+- Avoid derivatives (additional steps)
+- Use catalysts (used in small amounts while reagents used in excess; reduces energy requirement of ~)
+- Degrade after use (e.g. soapless detergents, bio-degradable plastics) 
+
+1d) What is atom economy? (ratio of molar mass of desired product to sum of molar masses of materials produced in the process)
+
+2. Describe 2 uses of ethanoic acid in industry. (make ethenyl ethaonate, which is a monomer to make a range of polymers, to make vinegar for food pickling, to make esters)
+
+3. What is supercritical CO2 used in coffee making? (extract caffeine from aqueous solution) 
+
+4a) Compare the pros and cons of a) Femrmentation b) Monsanto process c) CATIVA process respectively in the manufacture of acetic acid.
+4b) How is Cativa process better than the Monsanto process? 
+
+Iridium is 5 times cheaper than Rhodium, faster reaction rate, ~ is more selective for methanol which increases overall yield and reduce side products
+-> lower purification costs, reduced waste 
+
+5. Why does a reaction with high atom economy not necessarily have high yield?
+
+Calculation of atom economy is based on a 100% completed reactions. Most reactions do not go to completion and the yield is related to the extent of the reaction. 
+
+Points to note:
+1. In addition to the 3 main processes of acetic acid manufacturing included in textbook, there is also the Wacker process (ethene -> ethanal -> ~) and direct oxidation of naphtha/butane.
+2. Advantage of using H2O2 over other O.A.s: can be easily removed (decomposition by heating), non-toxic
+3. Ideal solvents should be volatile, should not react with solutes, low solubility for impurities but high solubility for ~ 
+4. When comparing 2 reactions regarding their greenness, always use a comparative tone (e.g. speak from both sides).
+    e.g. No solvent is emitted to the environment for Reaction (I) but Reaction (II) will.

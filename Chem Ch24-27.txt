@@ -51,7 +51,7 @@ Chapter 25 -- Polarity of bond and molecule
 
 Ans: -Both compounds have a <shape> (e.g. trigonal pyramidal shape) [1]
      -*<central atom A> is more electronegative than <central atom B>. The bonded e- are more shifted to the <central atom A> in <compound A> [1]
-     -This results in a stronger repulsion between the bond pairs in <compound A> and <compound B>, and thus a larger bond angle in <compound A> [1]
+     -This results in a stronger repulsion between the bond pairs in <compound A> than <compound B>, and thus a larger bond angle in <compound A> [1]
 
 6. What is bond dipole moment/bond polarity? (Ans: It is a measure of the extent of polarization of the bond. The more polar a bond, the larger its dipole moment.)
 
@@ -155,7 +155,7 @@ Ans: They have many hydroxyl groups and can form a large amount of intermolecula
 
 12. Compare the a) surface tension b) viscosity c) solubility of two substances.
 
-Ans: a)/b) <compound a> has higher intermolecular forces between its molecules than <compound b> (state the type of intermolecular forces and compare their strengthse.g. H-bond)
+Ans: a)/b) <compound a> has higher intermolecular forces between its molecules than <compound b> (state the type of intermolecular forces and compare their strengths e.g. H-bond)
 
 13. Given the evaporation rate of two liquids, compare their strengths of intermolecular forces.
 
@@ -163,7 +163,7 @@ Ans: The slower the evaporation rate, the stronger the intermolecular forces.
      (Need to gain energy from surroundings to overcome the intermolecular forces that hold molecules together)
 
 Common misconceptions/other tips/points to note:
-1. Types of dipoles and formation of dipole-dpole interaction is out of scope.
+1. Types of dipoles and formation of dipole-dipole interaction is out of scope.
 2. Higher volatility = lower boiling point
 3. H-bond can only occur between a small, very electronegative atom and a H atom bonded to a ~ (Cl is highly electronegative but it is large in size)
 4. Properties directly related to strength of intermolecular forces include b.p./m.p., surface tension, viscosity and solubility

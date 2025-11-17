@@ -173,7 +173,7 @@ Chapter 23 -- Addition Polymers
 2. Define the following terms:
  a) Monomer (A small molecule used to form a polymer)
  b) Polymerization (the process of repeatedly joining many monomers together to form the polymer)
- c) Polymer chain (a very large molecule formed by many smal molecules being joined together repeatedly)
+ c) Polymer chain (a very large molecule formed by many small molecules being joined together repeatedly)
  d) Polymer (a mixture of polymer chains with different R.M.M.)
  e) Repeating unit (the smallest recurring unit in a polymer chain) 
  f) Thermoplastics (plastics which can softened or melted upon heating and hardened on cooling repeatedly)
@@ -189,13 +189,13 @@ Ans: -Only weak intermolecular forces exists between polymer chains
 
 5. Explain why polypropene burns with a more sooty flame. (More carbon per one molecule)
 
-6. Suggest one rason why PVC (polyvinyl chloride) is not used for making food containers. (Ans: Its monomer and plasticizer are toxic)
+6. Suggest one reason why PVC (polyvinyl chloride) is not used for making food containers. (Ans: Its monomer and plasticizer are toxic)
 
 7. State 2 properties that enable Teflon (polytetrafluoroethene) to be used as the non-stick coating for frying pans. (Ans: high m.p., non-toxic)
 
 8. State the 6 common types of addition polymers and a few of their properties and applications. (soft/hard, price, toxicity, flammability, m.p.)
 
-Ans: PE: plastic toys; PP: plastic bags; PVC: bottles; PS: feeding bottles for babies; expanded PS: disposable cups + food boxes
+Ans: PE: plastic toys; PP: plastic bags; plasticized PVC: shower curtains; unplasticized PVC: floor tiles; PS: feeding bottles for babies; expanded PS: disposable cups + food boxes
      Perspex: aircraft windows, advertising display (optical fibres); Teflon: non-stick coating for frying pans
 
 9*. Suggest 1 reason why glass bottles are preferred to plastic bottles for the storage of champagne.
@@ -233,6 +233,10 @@ Ans: To improve the heat insultating properties of the material.
 15. With reference to given structure, explain whether nylon is a thermoplastic or a thermosetting plastic.
 
 Ans: Thermoplastic, because there are no cross links between polymer chains.
+
+16. What are plasticizers?
+
+Ans: Molecules that stick between the polymer chains and keep the polymers further apart from each other (weakens v.d.w., allow chains to slide more easily)
 
 Common misconceptions/other tips/points to note:
 1. A polymer is not a single compound, a repeating unit is not a molecule. 

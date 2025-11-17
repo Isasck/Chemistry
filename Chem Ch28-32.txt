@@ -27,6 +27,19 @@ Chapter 28 -- Chemical cells in daily life
 6a) What is meant by 'charge capacity' of a cell?
 6b) What is meant by 'energy density' of a cell?
 
+7. A dry cell often leaks after prolonged usage. Explain the source of leakage.
+
+Ans: Zinc metal is oxidized to Zn2+ ion. The metal casing becomes thinner and the dry cell leaks eventually.
+
+8. Explain why the voltage of the dry cell drops after it has been stored for a long time without being used.
+
+Ans: If the cell is allowed to stand some time, NH4+ which is acidic will directly react with Zn.
+     With the decrease in the concentration of NH4+, the voltage will also drop (rate of electrochemical reaction decreases)
+
+9. Explain why an excessively high voltage should not be used to charge a lead-acid accumulator.
+
+Ans: If the battery is charged with a high voltage, the PbO2 formed will not adhere strongly to the lead plate. The life of the battery will be shortened.
+
 Chapter 29 -- Simple Chemical cells
 
 1. How can a simple chemical cell be set up?
@@ -122,6 +135,19 @@ Chapter 31 -- Redox reactions in chemical cells
 6. Why are fresh potatoes used in the set-up of a chemical cell?
 
 Answer: Fresh potato contains more water. More mobile ions are present for the conduction of electricity.
+
+7. Describe the working principle of a fuel cell.
+
+Ans: -It is based on the conversion of chemical energy in the reaction 2H2 + O2 -> 2H2O into electrical energy
+     -In the H2 compartment (the anode), H2 is oxidized into H2O
+     -In the O2 compartment (the cathode), O2 is reduced into OH-
+     -Concentrated KOH (aq) acts as the electrolyte and provides OH- ions for anodic reaction
+     -The electrochemical reactions are catalyzed by the Ni in the electrodes
+
+8. Are fuel cells more environmentally friendly than those powered by petrol?
+
+Ans: Yes: Only water is produced from the fuel cells which is non-polluting
+     No: Hydrogen gas used in fuel cell is produced from fossil fuel such as steam reforming of natural gas/ electrical E consumed in production of H2 from H2O 
 
 Common misconceptions/mistakes, tips:
 1. Current flows in the opposite direction as electrons.
